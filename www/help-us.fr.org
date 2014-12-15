@@ -1,0 +1,53 @@
+
+#+Title: Aidez-nous
+#+LANGUAGE: fr
+
+- Écrire un message de soutien à la communauté LibreHealthcare.
+
+- Parler de LibreHealthcare et des logiciels libres :
+  - à son entourage,
+  - au sein de son école, institut, faculté,
+  - au sein de son syndicat professionnel,
+  - au sein de son groupement professionnel,
+  - au sein de son association,
+  - à son/sa chef ou son/sa patron(e),
+  - à son prestataire informatique.
+
+- Devenir bénévole de LibreHealthcare :
+
+  - Écrire des publications de toutes sortes sur les logiciels libres
+    dans le secteur de la santé :
+    - articles de blog,
+    - rapports étudiant, mémoires, thèses,
+    - articles de revue.
+
+  - Traduire
+    - les articles de LibreHealthcare dans toutes les langues.
+    - des articles qui pourraient intéresser la communauté
+      LibreHealthcare.
+
+  - Organiser des conférences sur les logiciels libres :
+    - au sein de son école, institut, faculté,
+    - à l'occasion de son congrès étudiant,
+    - à l'occasion de son forum d'orientation professionnelle,
+    - à l'occasion de son congrès professionnel.
+
+  - Proposer des logos ou des chartes graphiques pour nos moyens de
+    communication.
+
+  - Héberger ou participer à la maintenance de nos moyens de
+    communication.
+
+  - Aider LibreHealthcare à collecter des fonds :
+    - Donner du matériel à LibreHealthcare
+    - Faire un don à LibreHealthcare et ainsi devenir membre d'honneur
+      de LibreHealthcare
+    - Reverser à LibreHealthcare une partie des revenus obtenus en
+      rendant des services basés sur des logiciels libres et ainsi
+      faire de son entreprise un membre d'honneur de LibreHealthcare
+
+- Devenir développeur pour un logiciel libre utilisable dans le
+  secteur de la santé.
+  - [[http://www.freemedforms.com/fr/start|FreeMedForms]]
+
+- Mais avant tout : être créatif et soumettre ses idées ! ^^

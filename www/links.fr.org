@@ -1,0 +1,53 @@
+
+#+Title: Liens
+#+LANGUAGE: fr
+
+* Pour commençer à comprendre le logiciel libre
+
+- Framastart, le site qu'il faut parcourir pour avoir une première
+  idée de ce qu'est le logiciel libre.
+- GetGNULinux, un site web très agréable à consulter qui décrit
+  simplement le logiciel libre et pourquoi il ne faut utiliser que ces
+  logiciels, en prenant l'exemple du système d'exploitation complet
+  GNU/Linux.
+- Non aux racketiciels, le site qui rassemble les initiatives qui ont
+  pour objectif qu'en France, le consommateur ait enfin le libre choix
+  d'acheter ou non les logiciels proposés sur l'ordinateur par le
+  constructeur. Ce site est développé par l'AFUL, l'Association
+  Francophone des Utilisateurs de Logiciels Libres.
+
+* Pour approfondir les aspects juridiques du logiciel libre
+
+- La quadrature du Net, le site de l'association européenne de défense
+  des libertés fondamentales à l'heure d'Internet, notamment la vie
+  privée et la liberté d'expression.
+- Le blog du M. Frédéric CUIF, avocat exerçant à Poitier, spécialiste
+  de la vente de logiciel forcée que nous subissons lors de chaque
+  achat de matériel informatique.
+- Le blog de Philippe Aigrain, chercheur en informatique et ancien
+  chef du secteur technique du logiciel à la Commission Europpéenne.
+
+* Les sites des associations de promotion du logiciel libre
+
+- Aful.org, le site de l'Association Francophone des Utilisateurs de
+  Logiciels Libres.
+- April.org, le site de l'Association Promouvoir et Défendre le
+  Logiciel Libre (anciennement Association pour la Promotion et la
+  Recherche en Informatique Libre).
+- Gnu.org, le site web de GNU, le projet international de
+  développement d'un système d'exploitation libre, qui est à l'origine
+  (c'est-à-dire 1983) de l'écosystème du logiciel libre. Nous vous
+  conseillons tout particulièrement la lecture des articles de sa
+  section Philosophie.
+- Une page du site de l'AFUL qui référence les groupes locaux
+  d'utilisateurs de logiciels libre (les GUL).
+
+* Pour apprendre à utiliser les logiciels libres
+
+- OpenClassRooms. Anciennement connu sous le nom de site du zéro, ce
+  site web rassemble des tutoriels de qualité généralement très
+  bonne. Attention, soyez vigilants ! Si beaucoup de ces tutoriels
+  concernent des logiciels libres, ce n'est pas le cas de tous. *Dans
+  notre intérêt à tous, nous déconseillons formellement l'utilisation
+  de logiciels privateurs.*
+

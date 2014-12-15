@@ -1,0 +1,21 @@
+
+#+Title: LibreHealthcare
+#+LANGUAGE: en
+
+* Our actions
+
+- Promoting the use of open source softwares in the health sector
+
+- Supporting the development of open source softwares in the health
+  sector
+
+- Promoting the proper use of computer science among health
+  professionals
+  - Publish on line in a professional capacity
+  - Encrypt communications
+  - Promote self hosting
+
+- Supporting companies that engage in open source softwares in the
+  health sector
+
+- Creating medical and pharmaceutical open acces databases

@@ -1,0 +1,58 @@
+
+#+Title: Présentation
+#+LANGUAGE: fr
+
+L'utilisation des logiciels libres est une nécessité déontologique
+dans l'exercice des professions de santé, en particulier sur le point
+du *secret médical* et sur celui de l'*indépendance
+professionnelle*.
+
+C'est pourquoi la communauté LibreHealthcare : 
+- fait la *promotion de l'usage des logiciels libres* chez les
+  professionnels de santé,
+- édicte des *recommandations de bon usage de l'informatique* dans les
+  métiers de santé,
+- soutient le *développement de progiciels libres* pour le secteur de
+  santé,
+- soutient la *conversion des prestataires informatiques aux modèles
+  économiques de services* basés sur les logiciels libres.
+
+* Le secret professionnel
+
+Les patients et professionnels de santé ne peuvent se fier qu'aux
+logiciels libres pour préserver le secret médical.
+
+- Le secret professionnel à l'ère numérique (en cours de rédaction)
+- Les mots de passe (en cours de rédaction)
+- Le chiffrement des mails (en cours de rédaction)
+- Le rodage de disques durs (en cours de rédaction)
+- Le chiffrement des données (en cours de rédaction)
+- L'effacement des données des disques durs (en cours de rédaction)
+
+* L'indépendance professionnelle
+
+Les patients et les professionnels de santé ont le contrôle du
+développement des logiciels libres.
+
+- L'indépendance professionnelle à l'ère numérique
+  (en cours de rédaction)
+- Les progiciels libres de santé (en cours de rédaction)
+- Les logiciels libres de bureautique (en cours de rédaction)
+- Les systèmes d'exploitation libres (en cours de rédaction)
+- L'auto-hébergement des applications de réseau (en cours de rédaction)
+
+* LibreHealthcare
+
+Soutenez l'utilisation et le développement des logiciels libres pour
+le secteur de la santé en rejoignant notre communauté !
+
+- [[file:librehealthcare.fr.org][Se renseigner sur LibreHealthcare]]
+- Se renseigner sur les logiciels libres
+  - [[file:links.fr.org][Liens web]]
+  - [[file:references.fr.org][Références écrites]]
+- Suivre les avancées de LibreHealthcare :
+  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][La mailing list]]
+  - [[http://wiki.librehealthcare.flqt.fr/][Le wiki]]
+  - Le canal IRC francophone sur le serveur Freenode : *#librehealthcare-fr*
+  - Le canal IRC international sur le serveur Freenode : *#librehealthcare*
+- [[file:help-us.fr.org][Rejoindre la communauté LibreHealthcare]]

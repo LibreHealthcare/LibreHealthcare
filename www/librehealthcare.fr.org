@@ -1,0 +1,22 @@
+
+#+Title: Présentation
+#+LANGUAGE: fr
+
+* Nos actions
+
+- promotion de l'utilisation des logiciels libre dans le secteur de la
+  santé
+
+- soutien au développement des logiciels libre dans le secteur de la
+  santé
+
+- promotion du bon usage de l'informatique parmi les professionnels de
+  santé
+  - Publier sur le web à titre professionnel
+  - Chiffrer ses communications
+  - S'auto-héberger
+
+- soutien aux entreprises qui s'engagent dans le logiciel libre du
+  secteur de la santé
+
+- création de bases de données médico-pharmaceutiques libres

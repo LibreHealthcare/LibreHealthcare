@@ -1,0 +1,6 @@
+
+#+Title: Language selection
+#+LANGUAGE: en
+
+Choose your language : [[file:index.en.org][english]], [[file:index.fr.org][français]].
+

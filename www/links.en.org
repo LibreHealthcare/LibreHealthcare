@@ -1,0 +1,14 @@
+
+#+Title: Links
+#+LANGUAGE: en
+
+* Start to learn about open source softwares
+
+- Framastart, the website you should browse to make you a first idea
+  about open source softwares.
+- GetGNULinux, a very easy to read website that describe in a simple
+  way what are open source softwares and why we should be using only
+  them, using the GNU/Linux operating system as an example.
+- Non aux racketiciels, a website that brings together the differents
+  initiatives whose aim is to ensure that the consumers have the
+  choice to buy or not the softwar
