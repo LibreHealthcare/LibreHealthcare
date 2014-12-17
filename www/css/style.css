@@ -149,6 +149,9 @@ Content
 #table-of-contents ul{
     padding-left: 10px;
 }
+#table-of-contents li{
+    font-size: 0.8em;
+}
 
 /* ---------------------
 Postamble
@@ -165,7 +168,7 @@ Postamble
     display: block;
     margin: 0px 0px 15px 0px;
     border-radius: 5% 5% 5% 5%;
-    box-shadow: 1px 1px 12px #999;
+    box-shadow: 0 0 0.5em #999;
 }
 .toprightbutton { 
     position: absolute;
