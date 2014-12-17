@@ -1,0 +1,82 @@
+
+
+#+Title: Rédiger son rapport, son mémoire ou sa thèse comme un vrai hacker (1/X)
+#+LANGUAGE: fr
+
+Nous allons nous lancer dans une suite de tutoriels qui vous permettra
+désormais de rédiger vos rapports à la mode [[https://fr.wikipedia.org/wiki/Hacker_%28universit%C3%A9%29][hacker]]. Attention !
+Décrassage des neurones garanti !
+
+Pour vous donner une vue d'ensemble, en suivant ces tutos vous allez
+apprendre à utiliser *trois énormissimes logiciels* :
+
+- [[https://www.gnu.org/software/emacs/][Emacs]]. Ce logiciel est un [[https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte][éditeur de texte]]. Il vous permettra de
+  taper du texte de façon très efficace (et simple... une fois qu'on
+  en maîtrise les commandes) notamment grâce à son mode [[https://fr.wikipedia.org/wiki/Org-mode][org-mode]] qui
+  démultiplie les possibilités d'Emacs.
+
+- [[http://www.latex-project.org/][Tex/LaTeX]]. C'est la suite de logiciels qui permettra de compiler
+  (convertir) nos fichiers en un splendide PDF imprimable, et cela en
+  seulement deux [[https://fr.wikipedia.org/wiki/Ligne_de_commande][commandes]]. Pour une présentation en français de
+  LaTeX, c'est [[https://fr.wikipedia.org/wiki/LaTeX][ici]] sur Wikipedia.
+
+- [[http://www.git-scm.com/][Git]]. Git est un logiciel de [[https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions][gestion de versions]]. Il vous permettra
+  d'une part de vous libérer l'esprit des sauvegardes de vos fichiers
+  et permettra d'autre part un travail collaboratif hyper efficace.
+
+Ces trois logiciels sont évidemment des [[https://fr.wikipedia.org/wiki/Logiciel_libre][logiciels libres]] ; ils ne
+seraient d'ailleurs pas aussi excellents sans cela. (c'est la magie de
+l'[[https://fr.wikipedia.org/wiki/Open_source][open source]] ! ^^)
+
+Concernant les tutos, nous partirons du niveau zéro, c'est-à-dire que
+nous nous imaginerons nous adresser à des personnes qui n'ont jamais
+lancé ces logiciels. Ce sera donc du pas-à-pas. Il nous faut cependant
+vous prévenir de plusieurs choses :
+
+- *Ce sera certainement dur et long pour vous.* Il nous a fallu de
+  nombreux jours, semaines, mois pour maîtriser ne serait-ce que les
+  rudiments de ces logiciels. L'avantage que vous avez en suivant ces
+  tutos, c'est que vous aurez à terme en une seule référence en
+  français tout ce que nous avons appris d'utile sur des tas de sites
+  disparates en diverses langues. Ce sera alors plus rapide pour
+  vous... mais pas tant ^^. Donc, si vous ne pouvez pas vous lancer
+  dans un tel projet (et c'est légitime) je vous invite à utiliser
+  plutôt les logiciels de traitement de texte [[https://fr.libreoffice.org/][LibreOffice]] ou
+  [[http://www.openoffice.org/][OpenOffice]], eux aussi d'excellents logiciels libres qui font l'objet
+  de tutos sur ce site web.
+
+- *Ce sera certainement dur et long pour nous !* ^^ Hé oui, il va nous
+  falloir du temps pour :
+
+  - clarifier nos propres méthodes,
+
+  - les décrire en bon français, publier,
+
+  - illustrer nos propos... *Pour nous soutenir moralement, n'hésitez
+    pas à nous faire part de votre intérêt pour ces tutos.* Si vous ne
+    pouvez pas attendre, nous vous conseillons encore une fois
+    d'utiliser [[https://fr.libreoffice.org/][LibreOffice]] ou [[http://www.openoffice.org/][OpenOffice]].
+
+- Il se peut que des éléments de cette suite de tutos ne conviennent
+  plus après leur publication (notamment parce que nous avons trouver
+  de meilleures façons de faire entre temps), *donc nous les mettrons
+  à jour à l'occasion.*
+
+- Enfin, *nous considérons que vous savez installer des logiciels sous
+  votre système d'exploitation*. Nous utilisons ces logiciels sous
+  l'une ou l'autre des [[https://fr.wikipedia.org/wiki/Distributions_Linux][distributions]] des systèmes d'exploitation
+  libres [[https://fr.wikipedia.org/wiki/Linux][GNU/Linux]] ou [[https://fr.wikipedia.org/wiki/Berkeley_Software_Distribution][BSD]] que nous vous conseillons. Ils restent
+  utilisables sous l'OS aux fenêtres ainsi que celui à la pomme. Si
+  vous ne savez pas installer de logiciels et que vous ne trouvez pas
+  la documentation adéquate, vous pouvez toujours nous contacter !  ^^
+
+Voilà, à très bientôt pour le premier tuto. Pour vous faire patienter,
+je vous invite à consulter les liens qui parsèment cet article.
+
+** Remarques :
+
+- gs pour la fusion des pdf
+- gimp, inkscape et la suite ImageMagic pour les illustrations
+- bépo, une répartition de touches ergonomique. C'est facultatif mais
+  bon.
+

@@ -2,13 +2,13 @@
 #+Title: Présentation
 #+LANGUAGE: fr
 
-L'utilisation des logiciels libres est une nécessité déontologique
-dans l'exercice des professions de santé, en particulier sur le point
-du *secret médical* et sur celui de l'*indépendance
-professionnelle*.
+L'usage exclusif de logiciels libres par les professions de santé est
+une condition nécessaire à la préservation dans l'ère numérique des
+principes déontologiques, en particulier le *secret médical* et
+l'*indépendance professionnelle*.
 
 C'est pourquoi la communauté LibreHealthcare : 
-- fait la *promotion de l'usage des logiciels libres* chez les
+- fait la *promotion de l'utilisation des logiciels libres* chez les
   professionnels de santé,
 - édicte des *recommandations de bon usage de l'informatique* dans les
   métiers de santé,

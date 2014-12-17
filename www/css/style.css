@@ -130,6 +130,26 @@ Content
     text-align: center;
 }
 
+#table-of-contents {
+    position: absolute;
+    right: 0px;
+    top: 140px;
+    width: 135px;
+    background: #FFFFFF;
+    box-shadow: 0 0 0.5em #999;
+    padding: 10px 10px 10px 10px;
+}
+#table-of-contents h2{
+    font-size:1.2em;
+    margin: 0 0 0 0;
+    padding-left: 0;
+    border-top: 0px;
+
+}
+#table-of-contents ul{
+    padding-left: 10px;
+}
+
 /* ---------------------
 Postamble
 --------------------- */
@@ -158,6 +178,6 @@ Postamble
     margin: 0px 0px 30px 0px;
 }
 #postamble .mentions { 
-    font-size: 10px;
+    font-size: 0.75em;
     text-align: center;
 }
