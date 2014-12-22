@@ -1,13 +1,15 @@
 #+TITLE: Index des publications
 
+   + [[file:commeunvraihacker-emacs.fr.org][(Comme un vrai hacker 2/X). L'utilisation d'Emacs]]
    + [[file:help-us.fr.org][Aidez-nous]]
-   + [[file:commeunvraihacker-emacs.fr.org][Comme un vrai hacker (2/X). L'utilisation d'Emacs]]
+   + [[file:contribute.fr.org][Contribuer à ce site web]]
    + [[file:help-us.en.org][Help us]]
    + [[file:index.org][Language selection]]
    + [[file:librehealthcare.en.org][LibreHealthcare]]
    + [[file:links.fr.org][Liens]]
    + [[file:links.en.org][Links]]
    + [[file:index.en.org][Presentation]]
+   + [[file:erasing.fr.org][Protocole d'effacement définitif des données d'un disque dur]]
    + [[file:librehealthcare.fr.org][Présentation]]
    + [[file:index.fr.org][Présentation]]
    + [[file:references.en.org][References]]

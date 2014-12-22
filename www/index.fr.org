@@ -26,8 +26,8 @@ logiciels libres pour préserver le secret médical.
 - Les mots de passe (en cours de rédaction)
 - Le chiffrement des mails (en cours de rédaction)
 - Le rodage de disques durs (en cours de rédaction)
-- [[file:erasing.fr.org][Le chiffrement des données]]
-- L'effacement des données des disques durs (en cours de rédaction)
+- Le chiffrement des données (en cours de rédaction)
+- [[file:erasing.fr.org][L'effacement des données des disques durs]]
 
 * L'indépendance professionnelle à l'ère du numérique
 

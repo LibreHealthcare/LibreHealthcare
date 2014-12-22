@@ -53,7 +53,7 @@ l'habitude.*
 [[http://fr.wikipedia.org/wiki/Git][Git]] est en fait l'un des plus fameux logiciels de [[http://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions][gestion de
 modifications]]. Ces programmes permettent entre autre :
 - *la « sauvegarde »*. Le risque de perdre tout ou partie du travail
-  effectué est extrèmement faible car il existe
+  effectué est extrêmement faible car il existe
   au-moins-autant-de-copies-plus-une du répertoire de travail que de
   contributeurs.
 - *la traçabilité*. Chaque modification des fichiers est attribuée à
@@ -90,7 +90,7 @@ bientôt elle-même l'hébergement du dépôt central.
 
 Rendez-vous sur la page d'accueil de [[https://github.com/][GitHub]] et renseignez :
 1) De votre pseudonyme le champ « Pick a username ».
-2) De votre addresse mail le champ « Your email ».
+2) De votre adresse mail le champ « Your email ».
 3) Et d'un mot de passe le champ « Create a password ».
 
 Vous vous retrouvez devant une page personnelle qu'il n'est pas
@@ -128,7 +128,7 @@ sauvegardes », la configuration du dépôt…), se trouvent dans le
 répertoire *caché* (donc il faut savoir comment afficher les fichiers
 et dossiers cachés avec votre gestionnaire de fichier pour
 l'apercevoir) intitulé /.git/. *Pour notre usage, il n'y a pas
-nécessit à comprendre ce qui se trouve dans le dossier .git .*
+nécessité à comprendre ce qui se trouve dans le dossier .git .*
 
 Actuellement, le dépôt de LibreHealthcare est organisé ainsi .
 - À la racine du dépôt, se trouvent :
@@ -159,7 +159,7 @@ automatiquement à partir d'un [[http://fr.wikipedia.org/wiki/Fichier_texte][fic
 *.org*
 
 Par exemple, la page que vous lisez en ce moment est un fichier HTML
-s'appellant ~contribute.fr.html~ (comme vous pouvez le vérifier dans
+s'appelant ~contribute.fr.html~ (comme vous pouvez le vérifier dans
 le champ d'adresse de votre navigateur web) qui est généré à partir du
 fichier ~contribute.fr.org~ que nous modifions chaque fois qu'une
 correction est nécessaire.
@@ -194,11 +194,21 @@ Ces fichiers texte sont rédigés selon syntaxe très simple appelée
 + Les mots et groupes de mots entre deux tirets bas seront
   _soulignés_.
 
-+ les item des listes à puce commencent par un tiret (-) ou un plus
++ Les item des listes à puce commencent par un tiret (-) ou un plus
   (+).
 
-+ les item des listes numérotés commencent par un numéro suivi d'un
++ Les item des listes numérotés commencent par un numéro suivi d'un
   point (*X.*) ou suivi d'une parenthèse fermante (*X)*).
+
++ Les liens hypertexte vers un autre fichier du site sont de la forme
+   #+BEGIN_EXAMPLE
+  [[file:nomdufichier.fr.org][nom du lien]]
+   #+END_EXAMPLE
+
++ Les liens hypertexte vers un autre fichier site web sont de la forme
+   #+BEGIN_EXAMPLE
+  [[http://exemple.autresite.com][nom du lien]]
+   #+END_EXAMPLE
 
 ** Valider et partager ses modifications sur le dépôt central
 
@@ -279,6 +289,8 @@ profiter de votre travail.
 - *Tapez git push puis Enter.*
 - *Tapez le pseudo de votre compte github puis Enter.*
 - *Puis tapez le mot de passe de votre compte GitHub puis Enter.*
+
+Et voilà ! Merci pour votre contribution ! ^^
 
 * Que devient la modification ?
 
