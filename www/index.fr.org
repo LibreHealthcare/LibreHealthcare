@@ -8,7 +8,7 @@ principes déontologiques, en particulier le *secret médical* et
 l'*indépendance professionnelle*.
 
 C'est pourquoi la communauté LibreHealthcare : 
-- fait la *promotion de l'utilisation des logiciels libres* chez les
+- fait la *promotion de l'utilisation des logiciels libres* par les
   professionnels de santé,
 - édicte des *recommandations de bon usage de l'informatique* dans les
   métiers de santé,
@@ -17,7 +17,7 @@ C'est pourquoi la communauté LibreHealthcare :
 - soutient la *conversion des prestataires informatiques aux modèles
   économiques de services* basés sur les logiciels libres.
 
-* Le secret professionnel
+* Le secret professionnel à l'ère du numérique
 
 Les patients et professionnels de santé ne peuvent se fier qu'aux
 logiciels libres pour préserver le secret médical.
@@ -26,10 +26,10 @@ logiciels libres pour préserver le secret médical.
 - Les mots de passe (en cours de rédaction)
 - Le chiffrement des mails (en cours de rédaction)
 - Le rodage de disques durs (en cours de rédaction)
-- Le chiffrement des données (en cours de rédaction)
+- [[file:erasing.fr.org][Le chiffrement des données]]
 - L'effacement des données des disques durs (en cours de rédaction)
 
-* L'indépendance professionnelle
+* L'indépendance professionnelle à l'ère du numérique
 
 Les patients et les professionnels de santé ont le contrôle du
 développement des logiciels libres.

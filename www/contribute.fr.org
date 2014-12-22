@@ -1,0 +1,293 @@
+
+#+Title: Contribuer à ce site web
+#+LANGUAGE: fr
+
+La contribution à notre site web nécessite l'utilisation d'un *éditeur
+de texte* et du logiciel *Git*, la création d'un compte sur le site
+web *GitHub*, et la publication (tacite) de vos contributions sous la
+[[http://fr.wikipedia.org/wiki/Licence_libre][licence libre]] [[http://creativecommons.org/licenses/by-sa/3.0/fr/][CC-BY-SA]].
+
+Si vous êtes déjà familier avec chacune de ces notions :
+
+~git clone https://github.com/Librehealthcare/LibreHealthcare.git~
+
+*Sinon cette page décrit en détail comment procéder.* *Gardez en
+mémoire que s'approprier cette méthode prend du temps*, *mais qu'il
+s'agit d'un investissement très rentable à terme* tant elle est
+efficace et tant cet apprentissage est requis pour la contribution à
+une foule d'autres projets. Certes plutôt pour le développement de
+logiciels, mais vous verrez qu'un site web collaboratif gagne à son
+application également.
+
+* Installer les programmes requis
+** Choisir son éditeur de texte et l'installer
+
+Les [[http://fr.wikipedia.org/wiki/%C3%89diteur_de_texte][éditeurs de texte]] sont des logiciels spécialisés dans la
+modification des fichiers texte. Comme tous sont capables d'éditer les
+fichiers aboutissant à notre site web et que l'un d'entre eux est
+probablement déjà installé sur votre ordinateur, *utilisez celui-ci
+dans un premier temps*.
+
+Mais comme ces éditeurs préinstallés ne sont pas les plus fins d'entre
+eux, il vous restera un jour à faire un choix parmi tous les [[http://fr.wikipedia.org/wiki/Liste_de_logiciels_libres#.C3.89diteurs_de_texte][éditeurs
+de texte libres]]. Pour vous aidez dans ce choix décisif dans votre vie,
+vous pouvez nous demandez nos avis :
+- parmi les utilisateurs d'Emacs : [[mailto:nicolasfloquet59@gmail.com][Nicolas]].
+- autres éditeurs :
+
+Et concernant l'installation d'un nouvel éditeur au sein de votre
+système, sachez juste qu'il s'installe certainement comme n'importe
+quel autre programme. *Utilisez donc la méthode d'installation dont
+vous avez l'habitude.*
+
+** Comprendre Git et l'installer
+
+(Si jamais cette explication ne vous était pas suffisante, vous pouvez
+en trouver [[http://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-Installation-de-Git][une autre sur le site officiel de git]].)
+
+*Git doit être installé sur l'ordinateur de chaque contributeur*. Son
+installation sur votre ordinateur ne pose aucun problème. Donc comme
+précédemment, *utilisez la méthode d'installation dont vous avez
+l'habitude.*
+
+[[http://fr.wikipedia.org/wiki/Git][Git]] est en fait l'un des plus fameux logiciels de [[http://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions][gestion de
+modifications]]. Ces programmes permettent entre autre :
+- *la « sauvegarde »*. Le risque de perdre tout ou partie du travail
+  effectué est extrèmement faible car il existe
+  au-moins-autant-de-copies-plus-une du répertoire de travail que de
+  contributeurs.
+- *la traçabilité*. Chaque modification des fichiers est attribuée à
+  son contributeur, leur paternité est ainsi parfaitement respectée et
+  le vandalisme très découragé. D'autre part, puisque les états
+  antérieurs des fichiers sont bien gardés en mémoire, le vandalisme
+  éventuel est aisément réparable.
+
+Les logiciels de gestion de modifications sont donc plus qu'utiles à
+la mise en œuvre d'un travail collaboratif complexe.
+
+* Configurer 
+** Configurer Git pour son usage propre
+
+(Si jamais cette explication ne vous est pas suffisante, vous pouvez
+en trouver [[http://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git][une autre sur le site officiel de git]].)
+
+Lancez un terminal et tapez les deux commandes suivantes :
+- ~git config --global user.name~ "Votreprénom Votrenom"
+- ~git config --global user.email votre.adressemail@exemple.fr~
+
+Par votre nom et votre adresse mail, vous avez ainsi fourni à Git le
+moyen d'identifier vos contributions. Ces renseignements seront
+utilisés pour tous les projets utilisant Git auxquels vous
+contribuerez, donc pas seulement LibreHealthcare.
+
+** Ouvrir un compte sur GitHub
+
+[[https://github.com/][GitHub]] est l'un des sites web spécialisés dans l'hébergement de dépôts
+pour git. Il est maintenu par une compagnie privée, /GitHub Inc./ qui
+propose l'hébergement gratuit pour les dépôts correspondant à des
+projets de logiciel libre. Il est possible que LibreHealthcare gère
+bientôt elle-même l'hébergement du dépôt central.
+
+Rendez-vous sur la page d'accueil de [[https://github.com/][GitHub]] et renseignez :
+1) De votre pseudonyme le champ « Pick a username ».
+2) De votre addresse mail le champ « Your email ».
+3) Et d'un mot de passe le champ « Create a password ».
+
+Vous vous retrouvez devant une page personnelle qu'il n'est pas
+nécessaire de remplir.
+
+Il existe une page sur GitHub pour notre dépôt ici :
+https://github.com/LibreHealthcare/LibreHealthcare. LibreHealthcare
+dispose elle-même d'un « profil » sur GitHub à cette adresse :
+https://github.com/LibreHealthcare.
+
+* Contribuer
+** Créer un clone du dépôt central de LibreHealthcare web sur son ordinateur
+
+Les fichiers de LibreHealthcare sont contenus dans un unique
+répertoire (= dossier) que nous appellerons désormais /dépôt/. Chaque
+contributeur dispose d'une copie complète du dépôt du projet sur son
+ordinateur, cette copie est appelée /clone/.
+
+L'endroit de l'arborescence sur lequel chaque contributeur garde son
+clone n'a aucune incidence sur le projet. Vous pouvez donc placer
+votre clone où vous le voulez et le déplacer également à votre guise.
+
+Pour obtenir un clone du dépôt LibreHealthcare : dans un terminal,
+tapez :
+
+~git clone https://github.com/Librehealthcare/LibreHealthcare.git~
+
+** Comprendre l'arborescence du dépôt
+
+Maintenant que vous disposez d'un clone du dépôt, tentons de nous y
+repérer (avec votre gestionnaire de fichier et/ou avec le terminal).
+
+Au sein du dépôt, tous les fichiers dont Git a besoin (les «
+sauvegardes », la configuration du dépôt…), se trouvent dans le
+répertoire *caché* (donc il faut savoir comment afficher les fichiers
+et dossiers cachés avec votre gestionnaire de fichier pour
+l'apercevoir) intitulé /.git/. *Pour notre usage, il n'y a pas
+nécessit à comprendre ce qui se trouve dans le dossier .git .*
+
+Actuellement, le dépôt de LibreHealthcare est organisé ainsi .
+- À la racine du dépôt, se trouvent :
+  - le fichier /README.md/ qui explique le projet aux contributeurs
+    éventuels. Il est écrit en syntaxe [[http://fr.wikipedia.org/wiki/Markdown][Markdown]] pour que GitHub
+    l'affiche en tout beau sur la [[https://github.com/LibreHealthcare/LibreHealthcare][page de présentation du dépôt]]. La
+    raison de sa présence est *d'ordre pratique*.
+  - le fichier /COPYING.txt/ qui reprend le texte de la licence libre
+    CC-BY-SA. Il montre sous quel régime nous publions nos travaux. La
+    raison de sa présence est *d'ordre juridique*.
+  - le fichier /.gitignore/ qui permet de définir quels fichiers ou
+    quels types de fichiers nous préférons que /Git ignore/. *Ne vous
+    en préoccupez pas dans un premier temps.*
+  - et des fichiers divers que nous n'avons pas encore réussi à
+    classer !
+- Dans le sous-répertoire ./www/ se trouvent les fichiers du site web.
+  - Dans le sous-répertoire ./www/img/ se trouvent les images appelées
+    par les pages du site web.
+  - Dans le sous-répertoire ./www/css/ se trouve(nt) le(s) fichier(s)
+    de [[http://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade][CSS]], qui décrit(vent) la mise en forme du site web.
+  - *Mais ce sont les fameux fichiers /.org/ qui nous intéressent le
+    plus.*
+
+** Comprendre la syntaxe org pour modifier son premier fichier .org
+
+Chaque page web de notre site web est un [[http://fr.wikipedia.org/wiki/Hypertext_Markup_Language][fichier HTML]] généré
+automatiquement à partir d'un [[http://fr.wikipedia.org/wiki/Fichier_texte][fichier texte]] dont le nom se termine par
+*.org*
+
+Par exemple, la page que vous lisez en ce moment est un fichier HTML
+s'appellant ~contribute.fr.html~ (comme vous pouvez le vérifier dans
+le champ d'adresse de votre navigateur web) qui est généré à partir du
+fichier ~contribute.fr.org~ que nous modifions chaque fois qu'une
+correction est nécessaire.
+
+*Avec votre éditeur de texte, ouvrez le fichier .org que vous voulez
+modifier.*
+
+Ces fichiers texte sont rédigés selon syntaxe très simple appelée
+/org/ dont voici quelques éléments :
+
++ *#+TITLE: tapericiletitredelapage* désigne le titre de la
+  page.
+
++ *#+LANGUAGE: fr* désigne la langue de la page.
+
++ un saut de ligne sur la page web est représenté par une ligne vide
+  dans le fichier texte .org.
+
++ les étoiles (*) en début de ligne désignent les sous-titres avec une
+  étoile par niveau (une étoile pour le sous-titre de niveau 1, deux
+  pour le sous-titre de niveau 2 etc.)
+
++ Les mots et groupes de mots entre deux étoiles seront affichés *en
+  gras*.
+
++ Les mots et groupes de mots entre deux slash seront affichés /en
+  italique/.
+
++ Les mots et groupes de mots entre deux tildes seront affichés
+  ~en police à chasse fixe~.
+
++ Les mots et groupes de mots entre deux tirets bas seront
+  _soulignés_.
+
++ les item des listes à puce commencent par un tiret (-) ou un plus
+  (+).
+
++ les item des listes numérotés commencent par un numéro suivi d'un
+  point (*X.*) ou suivi d'une parenthèse fermante (*X)*).
+
+** Valider et partager ses modifications sur le dépôt central
+
+(Si jamais cette explication ne vous était pas suffisante, vous pouvez
+en trouver [[http://git-scm.com/book/fr/v1/Les-bases-de-Git-Enregistrer-des-modifications-dans-le-d%C3%A9p%C3%B4t][une autre sur le site officiel de git]].)
+
+Voici les quatre commandes de Git (à taper dans un terminal donc)
+qu'il est vous nécessaire de savoir :
+
+1. ~cd chemin/vers/le/depot/LibreHealthcare~
+2. ~git pull~
+3. ~git status~
+4. ~git add~ ~nomdunfichiermodifie.fr.org~
+   ~nomdunautrefichiermodifie.fr.org~
+5. ~git commit -m~ ' quelques mots d explication concernant votre
+   modification'
+6. ~git push~
+
+*** cd chemin/vers/le/depot/LibreHealthcare
+
+/cd/ signifie /Change the working Directory/. En effet, il faut placer
+votre terminal au sein de la racine du dépôt pour que les commandes
+suivantes s'appliquent bien à ce dépôt. (cd est une commande de base
+de la [[http://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande][ligne de commande UNIX]].)
+
+*** git pull
+
+*Cette commande est à taper chaque fois que vous débutez une session
+de modification, pour que vous travailliez sur des fichiers à jour.*
+
+Elle vérifie si d'autres contributeurs ont partagé sur le dépôt depuis
+la dernière fois que vous avez travaillé et, le cas échéant, de
+télécharger les versions à jour dans votre clone local.
+
+Vous pouvez désormais commencer à modifier les fichiers avec votre
+éditeur de texte.
+   
+*** git status
+
+*Cette commande est à taper chaque fois que vous voulez savoir l'état
+des fichiers (leur /statut/) de votre clone local du dépôt :*
+- Viennent-ils d'être créés ? Si oui, ils s'affichent en rouge dans la
+  section « Fichiers non suivis »
+- Ont-ils été modifiés ? Si oui, ils s'affichent en rouge dans la
+  section « Modifications qui ne seront pas validées »
+- Sont-ils prêt à être validés ? Si oui, ils s'affichent en vert dans
+  la section « Modifications qui seront validées »
+- Tout est validé mais il vous reste à partager vos dernières
+  modifications ? Si oui, 
+
+« Votre branche est en avance sur 'Origin/Master' de 1 commit »
+
+*** git add
+
+Plus précisément : ~git add~ ~nomdunfichiermodifie.fr.org~
+~nomdunautrefichiermodifie.fr.org~
+
+Cette commande prépare votre acte ou /commit/ en indexant les fichiers
+que vous venez de créer ou de modifier.
+
+*** git commit
+
+Plus précisément : ~git commit -m~ ' quelques mots d explication
+concernant votre modification'
+
+Cette commande valide l'ensemble des modifications que vous avez
+indexées précédemment et ajoute votre petit message d'explication
+concernant votre modification. *Bref et concis*, *ce message fait
+gagner du temps aux autres contributeurs.*
+
+*** git push
+    
+Dernière commande nécessaire à taper, elle /pousse/ votre
+/commit/. C'est-à-dire, qu'elle va mettre à jour le dépôt central
+(celui hébergé par GitHub) afin que tous les contributeurs puissent
+profiter de votre travail.
+
+- *Tapez git push puis Enter.*
+- *Tapez le pseudo de votre compte github puis Enter.*
+- *Puis tapez le mot de passe de votre compte GitHub puis Enter.*
+
+* Que devient la modification ?
+
+En quelques commandes qui durent chacune quelques secondes, les
+responsables :
+1. Mettent régulièrement à jour leur propre clone du dépôt (et
+   prennent le temps de vérifier leur pertinence).
+2. Génèrent des fichiers HTML à partir des fichiers .org du dépôt.
+3. Placent une copie de ses fichiers HTML sur l'ordinateur qui dessert
+   notre site web 24/7.
+
+*Et vos modifications apparaissent sur le site web !*

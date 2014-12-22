@@ -1,0 +1,48 @@
+
+#+Title: Protocole d'effacement définitif des données d'un disque dur
+#+LANGUAGE: fr
+
+Avant tout, il faut savoir que la simple « suppression » d'un fichier
+par un système d'exploitation quelconque (libre ou non) ou même un «
+formatage complet » ne suffit pas à effacer définitivement les données
+d'un disque dur.
+
+Ces méthodes ne sont donc pas suffisantes pour l'application réelle du
+secret professionnel, par exemple lorsqu'un professionnel de santé
+veut remplacer un ordinateur de travail dans lequel se trouvent
+potentiellement des données personnelles de patients non-chiffrées.
+
+L'objectif du protocole décrit sur cette page est donc :
+- qu'il soit improbable que quiconque puisse réussir récupérer la
+  moindre donnée en mémoire après son application.
+- qu'il soit réutilisable par tous donc notamment basé sur les
+  logiciels libres
+
+Bien entendu, ce protocole est actualisé selon l'état des
+connaissances. Le voici :
+
+1. avec un live-CD ou un live-USB d'une distro GNU/Linux de son choix,
+2. se logger en tant que root,
+3. fdisk -l pour connaître l'indicatif du disque dur (souvent /dev/sda)
+4. dd if=/dev/urandom of=/dev/sdX bs=? (où /dev/sdX est à remplacer par
+   l'indicatif du disque en question et où ? est à remplacer par un
+   multiple par 2 de 512 pour régler la vitesse et la finesse
+   d'exécution.)
+
+La suite de cette page explique chaque étape du protocole.
+
+* Le choix du live-CD
+
+* Se logger en tant que root
+
+* fdisk -l
+
+* dd
+
+* Liens utiles
+
+- [[http://m.commentcamarche.net/faq/8784-effacer-de-maniere-sure-un-disque-dur]]
+- [[http://wipetools.tuxfamily.org/]]
+- [[http://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base#find]]
+- [[http://doc.ubuntu-fr.org/shred]]
+- [[http://korben.info/comment-faire-un-bon-menage-de-printemps-sur-son-disque-dur-sous-linux.html]]

@@ -1,5 +1,5 @@
 
-#+TITLE: Comme un vrai hacker (2/X). L'utilisation d'Emacs
+#+TITLE: (Comme un vrai hacker 2/X). L'utilisation d'Emacs
 #+LANGUAGE: fr
 
 Vous vous êtes motivés à taper votre rapport à la mode hacker ? C'est

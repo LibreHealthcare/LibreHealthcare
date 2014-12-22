@@ -1,5 +1,7 @@
 
 * Rendez-vous
+** Présentation de FreeMedForms sur Raspberry Pi par Jérôme	  :Marseille:
 ** Présentation de LHC par Kapu au café … 			       :Nice:
    SCHEDULED: <2015-02-05 jeu.>
   Rendez-vous ajouté le [2014-12-17 mer. 22:48]
+

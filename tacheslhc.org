@@ -1,5 +1,8 @@
 
 * Tâches
-** TODO Me donner un accès SSH sur le serveur de Jérôme
-  [[file:~/Documents/librehealthcare/tacheslhc.org::*T%C3%A2ches][Tâches]]
+** TODO Donner un accès SSH à Nico sur le serveur de Jérôme
   Tâche ajoutée le [2014-12-17 mer. 22:49]
+** TODO tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel
+  Tâche ajoutée le [2014-12-19 ven. 22:25]
+** TODO Rédiger un article pour la revue Pratique
+  Tâche ajoutée le [2014-12-19 ven. 23:26]
