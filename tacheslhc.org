@@ -6,3 +6,7 @@
   Tâche ajoutée le [2014-12-19 ven. 22:25]
 ** TODO Rédiger un article pour la revue Pratique
   Tâche ajoutée le [2014-12-19 ven. 23:26]
+** TODO ajouter des captures d'écran au tuto contribute…
+http://www.librehealthcare.flqt.fr/contribute.fr.html
+
+  Tâche ajoutée le [2015-01-04 dim. 23:03]
