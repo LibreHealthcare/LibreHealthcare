@@ -1,12 +1,19 @@
-
 * Tâches
-** TODO Donner un accès SSH à Nico sur le serveur de Jérôme
-  Tâche ajoutée le [2014-12-17 mer. 22:49]
-** TODO tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel
-  Tâche ajoutée le [2014-12-19 ven. 22:25]
-** TODO Rédiger un article pour la revue Pratique
-  Tâche ajoutée le [2014-12-19 ven. 23:26]
-** TODO ajouter des captures d'écran au tuto contribute…
+** TODO [#A] Ajouter des captures d'écran au tuto contribute…
 http://www.librehealthcare.flqt.fr/contribute.fr.html
 
   Tâche ajoutée le [2015-01-04 dim. 23:03]
+** TODO [#A] Donner un accès SSH à Nico sur le serveur de Jérôme.
+  Tâche ajoutée le [2014-12-17 mer. 22:49]
+** TODO [#B] Faire une petite présentation de l'équipe. [0/5]
+*** TODO [#B] Gabriel
+*** TODO [#B] Jérôme
+*** TODO [#B] Laura
+*** TODO [#B] Nicolas
+*** TODO [#B] Raphaël
+   
+  Tâche ajoutée le [2015-01-13 mar. 09:55]
+** TODO [#A] Rédiger un article pour la revue Pratique.
+  Tâche ajoutée le [2014-12-19 ven. 23:26]
+** TODO [#A] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel.
+  Tâche ajoutée le [2014-12-19 ven. 22:25]
