@@ -17,7 +17,7 @@ C'est pourquoi la communauté LibreHealthcare :
 - soutient la *conversion des prestataires informatiques aux modèles
   économiques de services* basés sur les logiciels libres.
 
-* Le secret professionnel à l'ère du numérique
+* Le secret professionnel à l'ère numérique
 
 Les patients et professionnels de santé ne peuvent se fier qu'aux
 logiciels libres pour préserver le secret médical.
@@ -29,7 +29,7 @@ logiciels libres pour préserver le secret médical.
 - Le chiffrement des données (en cours de rédaction)
 - [[file:erasing.fr.org][L'effacement des données des disques durs]]
 
-* L'indépendance professionnelle à l'ère du numérique
+* L'indépendance professionnelle à l'ère numérique
 
 Les patients et les professionnels de santé ont le contrôle du
 développement des logiciels libres.

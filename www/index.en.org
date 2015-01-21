@@ -1,8 +1,11 @@
 
-#+Title: Présentation
+#+Title: Presentation
 #+LANGUAGE: en
 
-The exclusive use of free software by the health professions is a necessary condition for preservation in the digital era of ethical principles, in particular the *medical confidentiality* and *professional independence*.
+The exclusive use of free software by the health professions is a
+necessary condition for preservation in the digital era of ethical
+principles, in particular the *medical confidentiality* and
+*professional independence*.
 
 This is why the LibreHealthcare community:
 
@@ -21,7 +24,7 @@ Patients and health professionals can rely only on free softwares to preserve  m
 - The break-in hard drives (in progress)
 - Data encryption (in progress)
 - [[file:erasing.fr.org][Erasing hard drives data]]
-     
+
 * The professional independence in the digital era
 
 Patients and health professionals have control over the development of free softwares.
