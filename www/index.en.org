@@ -1,44 +1,48 @@
 
-#+Title: Presentation
+#+Title: Présentation
 #+LANGUAGE: en
 
-The use of open souce softwares is a necessity in the exercise of
-health professions, especially about *medical confidentiality* and
-*professional independance*. Support the use and development of
-software for the health sector and join our community!
+The exclusive use of free software by the health professions is a necessary condition for preservation in the digital era of ethical principles, in particular the *medical confidentiality* and *professional independence*.
 
-* Our actions
+This is why the LibreHealthcare community:
 
-- Promoting the use of open source softwares in the health sector
+- promotes the use of free software by health professionals,
+- creates recommendations for the proper use of IT in the health professions,
+- supports the development of free software for the health sector,
+- supports conversion of IT services providers to business models based on free software.
 
-- Supporting the development of open source softwares in the health
-  sector
+* Medical confidentiality in the digital era
 
-- Promoting the proper use of computer science among health
-  professionals
-  - Publish on line in a professional capacity
-  - Encrypt communications
-  - Promote self hosting
+Patients and health professionals can rely only on free softwares to preserve  medical confidentiality.
 
-- Supporting companies that engage in open source softwares in the
-  health sector
+- Medical confidentiality in the digital age (in progress)
+- Passwords (in progress)
+- Encryption of messages (in progress)
+- The break-in hard drives (in progress)
+- Data encryption (in progress)
+- [[file:erasing.fr.org][Erasing hard drives data]]
+     
+* The professional independence in the digital era
 
-- Creating medical and pharmaceutical open acces databases
+Patients and health professionals have control over the development of free softwares.
 
-* Follow our progress
+- The professional independence in the digital age (in progress)
+- The free health softwares (in progress)
+- The free office softwares (in progress)
+- Free operating systems (in progress)
+- Self-hosting network applications (in progress)
 
-Means of communication of the LibreHeathCare community :
-- [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][Mailing list]]
-- [[http://wiki.librehealthcare.flqt.fr/][Wiki]]
+* LibreHealthcare
 
-* Help us
+Support the use and development of free softwares for the health sector by joining our community!
 
-[[file:help-us.en.org][Help us]]
-
-* Learn about open source softwares
-
-- [[file:links.en.org][Web links]]
-- [[file:references.en.org][References]]
-
-
-
+- [[file:librehealthcare.fr.org][Learn about LibreHealthcare]]
+- Learn about free softwares :
+  - [[file:links.fr.org][Web links]]
+  - [[file:references.fr.org][Written references]]
+- Follow LibreHelathcare progress :
+  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][The mailing list]]
+  - [[http://wiki.librehealthcare.flqt.fr/][The wiki]]
+  - The Francophone IRC channel on Freenode: *#librehealthcare-en* 
+  - The International IRC channel on Freenode: *#librehealthcare*
+- [[file:help-us.fr.org][Join the LibreHealthcare community]]
