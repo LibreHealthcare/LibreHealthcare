@@ -1,0 +1,38 @@
+
+#+Title: How to permanently delete data from a hard drive
+#+LANGUAGE: en
+
+First of all, you must know that simply deleting a file by any operating system (open or not) or formatting a hard drive, is not sufficient to permanently delete data from this hard drive.
+
+These methods are not sufficient for the actual application of the medical confidentiality, such as when a health professional wants to replace a working computer in which are located potentially personal unencrypted patients' data.
+
+The objective of the protocol described on this page is:
+- That no one can manage to recover any data in memory after application of this protocol. 
+- That it is reusable by everyone, which means based on Free Softwares.
+
+This protocol is of course updated according to the state of knowledge.
+
+Protocol to erase permanently data from a hard drive :
+
+1. How to create a live-CD or a live-USB, with a linux distribution on it
+2. How to log in as a root user
+3. How to know the hard drive indicative, by using fdisk -l (it's often /dev/sda)
+4. dd if=/dev/urandom of=/dev/sdX bs=? (where /dev/sdX has to be replaced by the hard drive indicative)
+
+The following topics are explaining every steps of the protocol :
+
+* How to create a live-CD
+
+* How to log in as a root user
+
+* How to know the hard drive indicative : fdisk -l
+
+* dd 
+
+* Useful links
+
+- [[http://m.commentcamarche.net/faq/8784-effacer-de-maniere-sure-un-disque-dur]] 
+- [[http://wipetools.tuxfamily.org/]] 
+- [[http://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base#find]] 
+- [[http://doc.ubuntu-fr.org/shred]] 
+- [[http://korben.info/comment-faire-un-bon-menage-de-printemps-sur-son-disque-dur-sous-linux.html]]
