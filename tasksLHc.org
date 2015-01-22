@@ -17,3 +17,5 @@ http://www.librehealthcare.flqt.fr/contribute.fr.html
 *** TODO [#B] Raphaël
 ** TODO [#A] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel.
   Tâche ajoutée le [2014-12-19 ven. 22:25]
+** TODO Contacter (par mail) Mme. Ramade, professeur à Paris
+  Tâche ajoutée le [2015-01-22 jeu. 16:33]
