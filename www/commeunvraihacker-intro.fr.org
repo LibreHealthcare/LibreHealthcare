@@ -1,6 +1,4 @@
-
-
-#+Title: Rédiger son rapport, son mémoire ou sa thèse comme un vrai hacker (1/X)
+#+Title: Comme un vrai hacker 0. Rédiger son mémoire à la hacker
 #+LANGUAGE: fr
 
 Nous allons nous lancer dans une suite de tutoriels qui vous permettra

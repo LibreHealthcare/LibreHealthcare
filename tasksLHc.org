@@ -1,11 +1,13 @@
 * Tâches
-** TODO [#A] Ajouter des captures d'écran au tuto contribute…
+** TODO [#B] Ajouter des captures d'écran au tuto contribute…
 http://www.librehealthcare.flqt.fr/contribute.fr.html
 
   Tâche ajoutée le [2015-01-04 dim. 23:03]
-** TODO [#A] Donner un accès SSH à Nico sur le serveur de Jérôme.
+** TODO [#B] Contacter (par mail) Mme. Ramade, professeur à Paris   :Nicolas:
+  Tâche ajoutée le [2015-01-22 jeu. 16:33]
+** TODO [#A] Donner un accès SSH à Nico sur le serveur de Jérôme. :Jérôme:Nicolas:
   Tâche ajoutée le [2014-12-17 mer. 22:49]
-** TODO [#A] Rédiger un article pour la revue Pratique.
+** TODO [#B] Rédiger un article pour la revue Pratique.
   Tâche ajoutée le [2014-12-19 ven. 23:26]
 ** TODO [#B] Rédiger une présentation de l'équipe. [0/5]
   Tâche ajoutée le [2015-01-13 mar. 09:55]
@@ -15,7 +17,5 @@ http://www.librehealthcare.flqt.fr/contribute.fr.html
 *** TODO [#B] Laura
 *** TODO [#B] Nicolas
 *** TODO [#B] Raphaël
-** TODO [#A] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel.
+** TODO [#B] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel. :Nicolas:
   Tâche ajoutée le [2014-12-19 ven. 22:25]
-** TODO Contacter (par mail) Mme. Ramade, professeur à Paris
-  Tâche ajoutée le [2015-01-22 jeu. 16:33]
