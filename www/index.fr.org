@@ -1,58 +1,52 @@
-
-#+Title: Présentation
+#+Title: Actualités
 #+LANGUAGE: fr
 
-L'usage exclusif de logiciels libres par les professions de santé est
-une condition nécessaire à la préservation dans l'ère numérique des
-principes déontologiques, en particulier le *secret médical* et
-l'*indépendance professionnelle*.
+#+HTML: <span class="timestamp"><a href=./archives.fr.html>Archives</a> | <a href=./sitemap.html>Index</a></span>
 
-C'est pourquoi la communauté LibreHealthcare : 
-- fait la *promotion de l'utilisation des logiciels libres* par les
-  professionnels de santé,
-- édicte des *recommandations de bon usage de l'informatique* dans les
-  métiers de santé,
-- soutient le *développement de progiciels libres* pour le secteur de
-  santé,
-- soutient la *conversion des prestataires informatiques aux modèles
-  économiques de services* basés sur les logiciels libres.
+* Rédaction de la première lettre ouverte de LibreHealthcare	 :Actualités:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-12-8 lundi</span>
 
-* Le secret professionnel à l'ère numérique
+LibreHealthcare commence à s'animer ! C'est à l'initiative d'un
+étudiant en médecine de Nice que la première lettre ouverte de
+LibreHealthcare se rédige actuellement sur l'un des pads de Framasoft.
+- [[https://lite5.framapad.org/p/Q9TyVpmTxI][La lettre en cours de rédaction]]. Tout le monde peut participer.
+- [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][La liste de diffusion par mail de LibreHealthcare]]. Les inscriptions sont
+  ouvertes.
+- [[http://framasoft.org/][Framasoft]].
 
-Les patients et professionnels de santé ne peuvent se fier qu'aux
-logiciels libres pour préserver le secret médical.
+* Comme un vrai hacker 1. Utiliser Emacs			  :Tutoriels:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-08-02 samedi</span>
 
-- Le secret professionnel à l'ère numérique (en cours de rédaction)
-- Les mots de passe (en cours de rédaction)
-- Le chiffrement des mails (en cours de rédaction)
-- Le rodage de disques durs (en cours de rédaction)
-- Le chiffrement des données (en cours de rédaction)
-- [[file:erasing.fr.org][L'effacement des données des disques durs]]
+Vous vous êtes motivés à taper votre rapport à la mode hacker ? C'est
+très bien.
 
-* L'indépendance professionnelle à l'ère numérique
+Il nous faut tout d'abord un programme pour taper le texte de notre
+rapport, un [[https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte][éditeur de texte]] est tout indiqué pour cette fonction. Et
+Emacs est un digne représentant de cette classe de programmes.
 
-Les patients et les professionnels de santé ont le contrôle du
-développement des logiciels libres.
+[[./commeunvraihacker-emacs.fr.org][Lire la suite…]]
 
-- L'indépendance professionnelle à l'ère numérique
-  (en cours de rédaction)
-- Les progiciels libres de santé (en cours de rédaction)
-- Les logiciels libres de bureautique (en cours de rédaction)
-- Les systèmes d'exploitation libres (en cours de rédaction)
-- L'auto-hébergement des applications de réseau (en cours de rédaction)
+* Rédiger son mémoire à la hacker				  :Tutoriels:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-06-18 mercredi</span>
 
-* LibreHealthcare
+Nous allons nous lancer dans une suite de tutoriels qui vous permettra
+désormais de rédiger vos rapports à la mode [[https://fr.wikipedia.org/wiki/Hacker_%28universit%C3%A9%29][hacker]]. Attention !
+Décrassage des neurones garanti !
 
-Soutenez l'utilisation et le développement des logiciels libres pour
-le secteur de la santé en rejoignant notre communauté !
+[[./commeunvraihacker-intro.fr.org][Lire la suite…]]
+* Scribus. Débuter en PAO
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-06-07 samedi</span>
 
-- [[file:librehealthcare.fr.org][Se renseigner sur LibreHealthcare]]
-- Se renseigner sur les logiciels libres
-  - [[file:links.fr.org][Liens web]]
-  - [[file:references.fr.org][Références écrites]]
-- Suivre les avancées de LibreHealthcare :
-  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][La mailing list]]
-  - [[http://wiki.librehealthcare.flqt.fr/][Le wiki]]
-  - Le canal IRC francophone sur le serveur Freenode : *#librehealthcare-fr*
-  - Le canal IRC international sur le serveur Freenode : *#librehealthcare*
-- [[file:help-us.fr.org][Rejoindre la communauté LibreHealthcare]]
+Si vous avez pour projet de monter la maquette d'un *journal*,
+d'un *bulletin* ou encore d'une *affiche* événementielle, vous voulez
+en fait faire de la PAO, pour Pagination Assistée par Ordinateur. Et
+c'est [[http://www.scribus.net/canvas/Scribus][Scribus]] qui est le logiciel libre le plus adapté à ce type de
+création.
+
+En voici les bases pour que vous puissiez l'utiliser rapidement :
+
+[[file:scribus-pao.org][Lire la suite…]]

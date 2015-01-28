@@ -1,0 +1,51 @@
+
+#+Title: Presentation
+#+LANGUAGE: en
+
+The exclusive use of free software by the health professions is a
+necessary condition for preservation in the digital era of ethical
+principles, in particular the *medical confidentiality* and
+*professional independence*.
+
+This is why the LibreHealthcare community:
+
+- promotes the use of free software by health professionals,
+- creates recommendations for the proper use of IT in the health professions,
+- supports the development of free software for the health sector,
+- supports conversion of IT services providers to business models based on free software.
+
+* Medical confidentiality in the digital era
+
+Patients and health professionals can rely only on free softwares to preserve  medical confidentiality.
+
+- Medical confidentiality in the digital age (in progress)
+- Passwords (in progress)
+- Encryption of messages (in progress)
+- The break-in hard drives (in progress)
+- Data encryption (in progress)
+- [[file:erasing.fr.org][Erasing hard drives data]]
+
+* The professional independence in the digital era
+
+Patients and health professionals have control over the development of free softwares.
+
+- The professional independence in the digital age (in progress)
+- The free health softwares (in progress)
+- The free office softwares (in progress)
+- Free operating systems (in progress)
+- Self-hosting network applications (in progress)
+
+* LibreHealthcare
+
+Support the use and development of free softwares for the health sector by joining our community!
+
+- [[file:librehealthcare.fr.org][Learn about LibreHealthcare]]
+- Learn about free softwares :
+  - [[file:links.fr.org][Web links]]
+  - [[file:references.fr.org][Written references]]
+- Follow LibreHelathcare progress :
+  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][The mailing list]]
+  - [[http://wiki.librehealthcare.flqt.fr/][The wiki]]
+  - The Francophone IRC channel on Freenode: *#librehealthcare-en* 
+  - The International IRC channel on Freenode: *#librehealthcare*
+- [[file:help-us.fr.org][Join the LibreHealthcare community]]

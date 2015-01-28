@@ -1,0 +1,17 @@
+#+TITLE: Index
+
+   + [[file:help-us.fr.org][Aidez-nous]]
+   + [[file:contribute.fr.org][Contribuer à ce site web]]
+   + [[file:contribute.en.org][Contribuer à ce site web]]
+   + [[file:help-us.en.org][Help us]]
+   + [[file:erasing.en.org][How to permanently delete data from a hard drive]]
+   + [[file:index.org][Language selection]]
+   + [[file:librehealthcare.en.org][LibreHealthcare]]
+   + [[file:links.fr.org][Liens]]
+   + [[file:links.en.org][Links]]
+   + [[file:index.en.org][Presentation]]
+   + [[file:erasing.fr.org][Protocole d'effacement définitif des données d'un disque dur]]
+   + [[file:librehealthcare.fr.org][Présentation]]
+   + [[file:index.fr.org][Présentation]]
+   + [[file:references.en.org][References]]
+   + [[file:references.fr.org][Références]]
