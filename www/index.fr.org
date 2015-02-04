@@ -51,7 +51,7 @@ le secteur de la santé en rejoignant notre communauté !
   - [[file:links.fr.org][Liens web]]
   - [[file:references.fr.org][Références écrites]]
 - Suivre les avancées de LibreHealthcare :
-  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][La mailing list]]
+  - [[http://listes.medecinelibre.net/mailman/listinfo/librehealthcare][La mailing list]]
   - [[http://wiki.librehealthcare.flqt.fr/][Le wiki]]
   - Le canal IRC francophone sur le serveur Freenode : *#librehealthcare-fr*
   - Le canal IRC international sur le serveur Freenode : *#librehealthcare*
