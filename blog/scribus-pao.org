@@ -1,0 +1,307 @@
+#+TITLE: Scribus. Débuter en PAO
+  #+HTML: <span class="timestamp">2014-06-07 samedi</span>
+
+Si vous avez pour projet de monter la maquette d'un *journal*,
+d'un *bulletin* ou encore d'une *affiche* événementielle, vous voulez
+en fait faire de la PAO, pour Pagination Assistée par Ordinateur. Et
+c'est [[http://www.scribus.net/canvas/Scribus][Scribus]] qui est le logiciel libre le plus adapté à ce type de
+création.
+
+En voici les bases pour que vous puissiez l'utiliser rapidement :
+
+#+CAPTION:
+#+LABEL:   
+#+ATTR_HTML: border="0px" style="border: 0px" title="Découvrir Scribus" alt="Scribus"
+[[http://scribus.net][http://scribus.net/wiki/images/c/c8/Scribus-screen.png]]
+
+* Un peu de méthode
+
+Pour bien commencer une maquette, je vous conseille *de ne pas lancer
+Scribus tout de suite ! ^^* En effet, il faut au préalable :
+1. Avoir collecté absolument chaque texte définitif dans un format
+   numérique simple (.txt par exemple). La vérification du français
+   doit donc être effectuée avant.
+2. Avoir collecté absolument chaque illustration définitive.
+3. Avoir enfin une idée la plus précise possible du résultat final, il
+   faut donc avoir réalisé de nombreux croquis.
+
+En effet, *vous perdriez un temps monstrueux à essayer de retrouver un
+équilibre sur vos pages* chaque fois qu'un paragraphe est ajouté,
+supprimé ou seulement revu par votre rédacteur, ou chaque fois qu'une
+photo à insérer absolument est retrouvée en dernière minute par votre
+illustrateur.
+
+*La maquette, avec ou sans ordinateur, doit donc être sérieusement
+envisagée comme la toute dernière étape avant l'impression.*
+Maintenant, que cette notion est clairement posée, nous pouvons
+explorer les commandes de base de Scribus. *Comme d'habitude, nous
+vous conseillons d'utiliser abondamment le clavier, nous avons mis les
+raccourcis en gras dans ce texte.*
+
+- Lancez donc le logiciel Scribus comme vous lanceriez n'importe
+  quelle application.
+
+* La manipulation des cadres
+
+Scribus est particulièrement efficace dans le placement des textes et
+des images sur la page parce qu'il utilise la notion de /cadres/ : le
+texte et les images se placent dans des cadres ; puis ce sont les
+cadres que nous taillons et plaçons finement (Scribus est si puissant
+qu'il peut gérer les détails au delà du millième de millimètre,
+c'est-à-dire des détails très largement indiscernables à l'œil nu !)
+
+** Les repères
+
+Mais pour poser nos cadres plus facilement, il nous faut des repères
+sur la page.
+
+*** Les marges
+
+Au lancement de Scribus, une fenêtre centrale s'affiche. \ref{fig:01}
+
+#+CAPTION: 
+#+LABEL:   fig:01
+#+ATTR_HTML: alt="Petite fenêtre au démarrage de Scribus" title="La petite fenêtre au démarrage de Scribus"
+[[./img/lapaosousscribus01.png]]
+
+1. Sélectionnez l'unité par défaut /Centimètre/ (vous pouvez en fait
+   utiliser l'unité qui vous met le plus à l'aise. Pour moi, c'est le
+   centimètre, bien que ce ne soit pas forcément la référence dans le
+   monde de l'impression professionnelle.)
+2. Vous pouvez choisir la disposition et les marges qui vous
+   conviennent. *Ces valeurs doivent avoir été choisies au préalable
+   lors de vos croquis.* Si vous voulez simplement découvrir le
+   fonctionnement de Scribus, choisissez /page simple/ et une marge de
+   1 cm sur chaque bord.
+3. Cliquez sur le bouton /Ok/. Vous voyez une page blanche avec les
+   marges apparaissant en bleu. \ref{fig:02}
+
+#+CAPTION: 
+#+LABEL:   fig:02
+#+ATTR_HTML: alt="Page vide sous Scribus" title="Le résultat après avoir cliquer sur Ok"
+[[./img/lapaosousscribus02.png]]
+
+*** Les repères verticaux et horizontaux
+
+1. Vérifier dans la section /Affichage/ du menu *(Alt+A)* que la
+   ligne /Afficher les repères/ apparaissent cochée. Sinon, cliquer
+   sur cette ligne *(R)*.
+2. « Magnétisez » vos futurs repères (pour faciliter grandement le
+   placement de vos futurs cadres) : dans la section /Page/ du
+   menu *(Alt+P)*, cochez la ligne /Repères magnétiques/ *(P)*. \ref{fig:03}
+3. Dans la section /Page/ du menu *(Alt+P)*, cliquez sur la ligne
+   /Gestion des repères/ *(G)* \ref{fig:03} ; une fenêtre s'affiche.
+
+#+CAPTION: 
+#+LABEL:   fig:03
+#+ATTR_HTML: alt="Sous-menu Page de Scribus" title="Magnétisez les futurs repères et accédez à la fenêtre degestion des repères"
+[[./img/lapaosousscribus03.png]]
+
+4. Cliquez sur l'onglet /Colonne/ligne/, et sélectionnez les repères
+   horizontaux et verticaux qui vous conviennent. \ref{fig:04} *Ces
+   valeurs doivent avoir été choisies au préalable lors de vos
+   croquis.* Si vous voulez simplement découvrir le fonctionnement de
+   Scribus, choisissez 5 repères horizontaux partant des marges et 1
+   repère vertical avec une gouttière de 4 cm. (non, ce n'est pas trop
+   large rassurez-vous ^^)
+
+#+CAPTION: 
+#+LABEL:   fig:04
+#+ATTR_HTML: alt="La fenêtre de gestion des repère de Scribus" title="Sélectionnez les valeurs de vos repères"
+[[./img/lapaosousscribus04.png]]
+
+5. Appuyer sur votre *touche /Échap/* pour fermer la petite
+   fenêtre. Vos nouveaux repères apparaissent en tirets rouges.
+
+** Ajouter des cadres d'image et de texte
+
+1. Pour ajouter un cadre de texte, appuyez sur la *touche T*, le
+   curseur de votre souris change de forme, et dessiner un cadre à
+   votre convenance *en glissant votre souris tout en maintenant le
+   clic gauche enfoncé.* Le travail de placement du cadre est
+   grandement facilité par le « magnétisme » de vos repères et de vos
+   marges. \ref{fig:05}
+
+#+CAPTION: 
+#+LABEL:   fig:05
+#+ATTR_HTML: alt="Le placement d'un cadre de texte de Scribus" title="Placez vos cadres de textes et d'images"
+[[./img/lapaosousscribus05.png]]
+
+2. Pour ajouter un cadre d'image, on procède de la même manière mais
+   en appuyant sur la *touche I* \ref{fig:05}
+
+** La touche F2 et la fenêtre de propriété des cadres
+
+En appuyant sur la *touche F2*, vous faites apparaître et disparaître
+une fenêtre très importante : celle des propriétés du cadre
+sélectionné. Elle contient toutes les valeurs du cadre que vous
+pourrez alors finement contrôler : taille, position, bordure, marge
+avec son contenu etc. \ref{fig:06}
+
+#+CAPTION: 
+#+LABEL:   fig:06
+#+ATTR_HTML: alt="La fenêtre de propriété des cadres de Scribus" title="Appuyez sur la touche F2 pour faire apparaître cette fenêtre très utile"
+[[./img/lapaosousscribus06.png]]
+
+* La manipulation du texte
+
+Si vous voulez simplement découvrir le fonctionnement de Scribus, et
+que vous n'avez aucun texte prêt, vous pouvez :
+- effectuer un clic droit sur le cadre de texte,
+- cliquer sur la ligne /insérer un faux texte/. \ref{fig:07}
+
+#+CAPTION: 
+#+LABEL:   fig:07
+#+ATTR_HTML: alt="Le menu contextuel d'un cadre de texte de Scribus" title="Faites un clic droit sur un cadre de texte pour faire apparaître son menu contextuel"
+[[./img/lapaosousscribus07.png]]
+
+** Importer un texte dans un cadre de texte
+
+Pour insérer un texte préalablement rédigé dans un cadre, il faut :
+1. effectuer un clic droit sur ce cadre, un menu contextuel apparaît,
+2. puis cliquer sur la ligne /Importer un texte.../ \ref{fig:07}, une fenêtre de
+   gestionnaire de fichier apparaît,
+3. trouver votre texte dans vos fichiers et cliquer sur *Ok*.
+
+Mais soyez plus rapide en effectuant la combinaison *Ctrl+I*.
+
+** Modifier un texte dans un cadre de texte
+
+Pour modifier un texte dans un cadre (au cas où malheureusement vous
+repérez quelques fautes résiduelles), il faut faire
+apparaître *l'éditeur de texte* :
+1. sélectionner ce cadre,
+2. effectuer la combinaison *Ctrl+T*, la fenêtre de l'éditeur de
+   texte apparaît, \ref{fig:08}
+3. une fois vos modifications achevées, fermer la fenêtre de l'éditeur
+   de texte avec *Ctrl+W*, vos modifications seront validées.
+
+#+CAPTION: 
+#+LABEL:   fig:08
+#+ATTR_HTML: alt="L'éditeur de texte interne de Scribus" title="Effectuer Ctrl+T pour faire apparaître cet éditeur de texte"
+[[./img/lapaosousscribus08.png]]
+
+** La touche F3 et la modification des styles de texte
+
+1. Appuyez sur la *touche F3*, la fenêtre du gestionnaire des styles
+   apparaît. \ref{fig:09}
+
+#+CAPTION: 
+#+LABEL:   fig:09
+#+ATTR_HTML: alt="L'éditeur de style de Scribus" title="Appuyez sur la touche F3 pour faire apparaître cet éditeur de style"
+[[./img/lapaosousscribus09.png]]
+
+2. Créez un nouveau style pour chaque niveau de texte (titre,
+   sous-titre, corps de texte, puce, signature etc.) en cliquant sur
+   le bouton /Nouveau/ puis sur la ligne /Style de paragraphes/, la
+   fenêtre des styles s'étend.
+3. Je vous invite à tout essayer en bidouillant car dresser la liste
+   des fonctions de cette fenêtre serait trop fastidieux. Sachez que
+   c'est dans cette fenêtre que vous pourrez modifier la police, sa
+   taille, modifier la largeur des caractère. (Je conseille de diminuer
+   la largeur de autour de 80% pour le corps de texte d'un petit
+   journal.), modifier l'inter-lignage, l'alignement etc.
+
+** Assigner un style à un paragraphe de texte :
+
+1. sélectionner le cadre le contenant, appuyer sur *Ctrl+T* pour
+   lancer la fenêtre de l'éditeur de texte,
+2. cliquez sur la colonne de gauche au niveau du paragraphe
+   dont le style doit être modifié, \ref{fig:08}
+3. sélectionnez le style adéquat dans le menu déroulant.
+4. Une fois les manipulations effectuées, validez et fermez la
+   fenêtre d'édition de texte en effectuant *Ctrl+W*
+
+** Lier des cadres de textes
+
+Si un texte unique doit être placé à plusieurs endroits de la
+pages, *n'essayez surtout pas de le couper pour le répartir vous-même
+! ^^* Car nous allons tout simplement créer une chaîne de cadres de
+texte en les liant : \ref{fig:10}
+- sélectionnez votre premier cadre, celui qui contiendra le début du
+  texte,
+- appuyer sur la *touche N*,
+- sélectionnez le cadre suivant,
+- appuyer sur la *touche N*
+- sélectionnez le cadre suivant,
+- répéter cette manœuvre autant de fois que nécessaire.
+
+#+CAPTION: 
+#+LABEL:   fig:10
+#+ATTR_HTML: alt="Lier des cadres de texte sous Scribus" title="Appuyez sur la touche N pour pouvoir lier des cadres de texte"
+[[./img/lapaosousscribus10.png]]
+
+En faisant cela, tous les cadres liés ensemble contiennent le même
+texte, et lorsque l'un de ces cadres « déborde » de texte, celui
+versera dans le cadre suivant.
+
+** Effectuer les césures
+
+Pour effectuer les césures, il faut :
+1. sélectionner le cadre contenant le texte (s'il s'agit d'une chaîne
+   de cadres liés, un seul d'entre eux suffit)
+2. puis, dans la section /Extra/ du menu *(Alt+X)*, cliquer sur la
+   ligne /Effectuer les césures/ *(C)*.
+
+* La manipulation des images
+** Importer les images
+
+Pour insérer une image dans un cadre d'image, il faut :
+1. effectuer un clic droit sur ce cadre, un menu contextuel apparaît,
+2. puis cliquer sur la ligne /Importer une image.../, une fenêtre de
+   gestionnaire de fichier apparaît,
+3. trouver votre image dans vos fichiers et cliquer sur *Ok*.
+
+Mais, encore une fois, soyez plus rapide en effectuant la
+combinaison *Ctrl+I*.
+
+** Déplacer l'image dans le cadre
+
+Vous vous apercevez certainement que l'image n'est pas correctement
+placée dans votre cadre : \ref{fig:11}
+- pour ce faire, faîtes apparaître la fenêtre des propriétés de cadre
+  en appuyant sur la *touche F2*,
+- cliquer sur l'onglet /image/,
+- cocher la case de la ligne /Mettre l'image aux dimensions du cadre/,
+- *puis recocher la case de la ligne /Mise à l'échelle libre/,
+- déplacer votre image à votre convenance selon l'axe des X et des Y.
+
+#+CAPTION: 
+#+LABEL:   fig:11
+#+ATTR_HTML: float="none alt="L'onglet image de la fenêtre de propriété d'un cadre d'image de Scribus" title="L'onglet « Image » de la fenêtre de propriété d'un cadre d'image"
+[[./img/lapaosousscribus11.png]]
+
+** Modifier une image
+
+Sous une distribution GNU/Linux contenant le fameux logiciel libre
+[[http://www.gimp.org/][Gimp]], c'est ce dernier qui est lancé pour modifier l'image. La
+preuve :
+- effectuez un clic droit sur le cadre contenant votre image à
+  modifier, le menu contextuel apparaît,
+- cliquer sur la ligne /Éditer l'image.../, le logiciel Gimp se lance.
+
+Mais vous pouvez très bien utiliser Gimp au préalable pour modifier
+l'image à votre convenance. Et dans un second temps, importer enfin la
+version modifiée de votre image dans votre document Scribus comme
+présenté ci-dessus.
+
+Cependant, l'utilisation de Gimp, qui est également un magnifique
+logiciel libre dépasse le cadre de ce tutoriel.
+
+* Résumé
+
+Vous avez appris les bases de l'utilisation de Scribus. Vous êtes
+désormais techniquement capable de réaliser un journal, un bulletin
+ou une affiche. Il vous faut désormais de nombreuses heure de
+pratique de ce logiciel pour acquérir une certaine aisance. 
+
+Nous insistons encore une fois sur l'apprentissage des
+raccourcis-clavier de tout logiciel, passage obligé si on a l'ambition
+de le maîtriser un minimum.
+
+Les touches et combinaisons de touches à apprendre par cœur pour
+maîtriser un minimum Scribus sont *T, I, Ctrl+T, Ctrl+W, F2 et F3*. À
+cela, s'ajoute des combinaisons communes avec le logiciel libreOffice
+telle que *Ctrl+N* pour ouvrir un nouveau fichier, *Ctrl+S* pour
+sauvegarder votre fichier courant, ou encore *Ctrl+Q* pour quitter le
+programme.

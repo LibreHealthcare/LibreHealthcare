@@ -1,0 +1,52 @@
+#+Title: Actualités
+#+LANGUAGE: fr
+
+#+HTML: <span class="timestamp"><a href=./archives.fr.html>Archives</a> | <a href=./sitemap.html>Index</a></span>
+
+* Rédaction de la première lettre ouverte de LibreHealthcare	 :Actualités:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-12-8 lundi</span>
+
+LibreHealthcare commence à s'animer ! C'est à l'initiative d'un
+étudiant en médecine de Nice que la première lettre ouverte de
+LibreHealthcare se rédige actuellement sur l'un des pads de Framasoft.
+- [[https://lite5.framapad.org/p/Q9TyVpmTxI][La lettre en cours de rédaction]]. Tout le monde peut participer.
+- [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][La liste de diffusion par mail de LibreHealthcare]]. Les inscriptions sont
+  ouvertes.
+- [[http://framasoft.org/][Framasoft]].
+
+* Comme un vrai hacker 1. Utiliser Emacs			  :Tutoriels:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-08-02 samedi</span>
+
+Vous vous êtes motivés à taper votre rapport à la mode hacker ? C'est
+très bien.
+
+Il nous faut tout d'abord un programme pour taper le texte de notre
+rapport, un [[https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte][éditeur de texte]] est tout indiqué pour cette fonction. Et
+Emacs est un digne représentant de cette classe de programmes.
+
+[[./commeunvraihacker-emacs.fr.org][Lire la suite…]]
+
+* Rédiger son mémoire à la hacker				  :Tutoriels:
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-06-18 mercredi</span>
+
+Nous allons nous lancer dans une suite de tutoriels qui vous permettra
+désormais de rédiger vos rapports à la mode [[https://fr.wikipedia.org/wiki/Hacker_%28universit%C3%A9%29][hacker]]. Attention !
+Décrassage des neurones garanti !
+
+[[./commeunvraihacker-intro.fr.org][Lire la suite…]]
+* Scribus. Débuter en PAO
+  #+HTML: <span class="timestamp">Nicolas Floquet</span>
+  #+HTML: <span class="timestamp">2014-06-07 samedi</span>
+
+Si vous avez pour projet de monter la maquette d'un *journal*,
+d'un *bulletin* ou encore d'une *affiche* événementielle, vous voulez
+en fait faire de la PAO, pour Pagination Assistée par Ordinateur. Et
+c'est [[http://www.scribus.net/canvas/Scribus][Scribus]] qui est le logiciel libre le plus adapté à ce type de
+création.
+
+En voici les bases pour que vous puissiez l'utiliser rapidement :
+
+[[file:scribus-pao.org][Lire la suite…]]

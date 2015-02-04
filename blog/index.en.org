@@ -1,0 +1,8 @@
+#+Title: News
+#+LANGUAGE: en
+
+#+HTML: <span class="timestamp"><a href=./archives.html>Archives</a> | <a href=./sitemap.html>Index</a></span>
+
+* Soon!
+
+There is no news in english yet.

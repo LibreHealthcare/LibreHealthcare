@@ -1,4 +1,3 @@
-
 #+Title: Language selection
 #+LANGUAGE: en
 

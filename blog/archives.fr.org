@@ -1,0 +1,5 @@
+#+Title: Archives
+#+LANGUAGE: fr
+
+LibreHealthcare est une communauté jeune ; elle ne dispose pas
+d'archives.
