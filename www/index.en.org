@@ -44,7 +44,7 @@ Support the use and development of free softwares for the health sector by joini
   - [[file:links.fr.org][Web links]]
   - [[file:references.fr.org][Written references]]
 - Follow LibreHelathcare progress :
-  - [[http://listes.medecinelibre.net/cgi-bin/mailman/listinfo/librehealthcare][The mailing list]]
+  - [[http://listes.medecinelibre.net/mailman/listinfo/librehealthcare][The mailing list]]
   - [[http://wiki.librehealthcare.flqt.fr/][The wiki]]
   - The Francophone IRC channel on Freenode: *#librehealthcare-en* 
   - The International IRC channel on Freenode: *#librehealthcare*
