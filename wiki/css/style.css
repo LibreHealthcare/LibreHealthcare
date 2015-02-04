@@ -169,7 +169,6 @@ Postamble
 .topleftbutton img { 
     display: block;
     margin: 0px 0px 15px 0px;
-    border-radius: 5% 5% 5% 5%;
 }
 .toprightbutton { 
     position: absolute;
