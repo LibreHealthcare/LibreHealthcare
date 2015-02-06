@@ -23,7 +23,7 @@ Patients and health professionals can rely only on free softwares to preserve  m
 - Encryption of messages (in progress)
 - The break-in hard drives (in progress)
 - Data encryption (in progress)
-- [[file:erasing.fr.org][Erasing hard drives data]]
+- [[file:erasing.en.org][Erasing hard drives data]]
 
 * The professional independence in the digital era
 
@@ -41,11 +41,11 @@ Support the use and development of free softwares for the health sector by joini
 
 - [[file:librehealthcare.fr.org][Learn about LibreHealthcare]]
 - Learn about free softwares :
-  - [[file:links.fr.org][Web links]]
-  - [[file:references.fr.org][Written references]]
+  - [[file:links.en.org][Web links]]
+  - [[file:references.en.org][Written references]]
 - Follow LibreHelathcare progress :
   - [[http://listes.medecinelibre.net/mailman/listinfo/librehealthcare][The mailing list]]
   - [[http://wiki.librehealthcare.flqt.fr/][The wiki]]
   - The Francophone IRC channel on Freenode: *#librehealthcare-en* 
   - The International IRC channel on Freenode: *#librehealthcare*
-- [[file:help-us.fr.org][Join the LibreHealthcare community]]
+- [[file:help-us.en.org][Join the LibreHealthcare community]]
