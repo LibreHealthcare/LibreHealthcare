@@ -29,8 +29,13 @@ dont principalement :
 - Git.
 
 #Comment participer à la structure du site
-1.Forkez le
-2.Créez une branche pour l'ajour que vous souhaitez faire (git checkout -b mon-ajout)
-3.Faites un commit pour vos changement (git commit -am "Mon ajout")
-4.Renvoyez le vers la branche (git push origin mon-ajout)
-5.Faites un nouveau pull request
+
+1. Forkez le
+
+2. Créez une branche pour l'ajour que vous souhaitez faire (git checkout -b mon-ajout)
+
+3. Faites un commit pour vos changement (git commit -am "Mon ajout")
+
+4. Renvoyez le vers la branche (git push origin mon-ajout)
+
+5. Faites un nouveau pull request
