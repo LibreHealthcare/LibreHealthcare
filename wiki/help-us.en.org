@@ -1,4 +1,3 @@
-
 #+Title: Help us
 #+LANGUAGE: en
 
@@ -13,5 +12,33 @@
   - to your boss,
   - to your IT provider.
 
+- Become a volunteer with LibreHealthcare
 
+- Write every kind of publications about open source softwares in the medical field
+    - Blog articles
+    - student dissertations, thesis
+    - journal articles
 
+  - Translate
+    - LibreHealthcare articles in every languages
+    - any articles thats could interest the LibreHealthcare community
+
+- Organize conferences on open source softwares :
+    - at school, at university
+    - during a student conference
+    - during a professional conference 
+    - during a career guidance forum
+
+ - Propose logos, graphic charts, new ways of communication
+
+  - Host or participate in the maintenance of our ways of communication
+
+- Help LibreHealthcare to raise money :
+    - Donate equipment to LibreHeathcare
+    - Donate money to LibreHeathcare and this way, become a LibreHeathcare member of honor
+    - Donate to LibreHeathcare part of the benefits made by using services based on open source softwares, and this way, make your company a LibreHeathcare member of honor. 
+
+- Become an open source software developer in the medical field
+  - [[http://www.freemedforms.com/fr/start|FreeMedForms]] 
+
+- But first of all : be creative and propose many ideas !!
