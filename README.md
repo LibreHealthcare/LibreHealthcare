@@ -41,4 +41,4 @@ dont principalement :
 5. Faites un nouveau pull request
 
 Pour plus de détails sur la manière dont vous pouvez contribuer à ce site,
- un tutoriel plus détaillé se trouve [ici](http://wiki.librehealthcare.flqt.fr/contribute.fr.html"tutoriel LHC")
+ un tutoriel plus détaillé se trouve [ici](http://wiki.librehealthcare.flqt.fr/contribute.fr.html "tutoriel LHC").
