@@ -76,6 +76,7 @@ Preamble
     padding: 0 20px; 
     text-align: right;
     letter-spacing: -1px;
+    background: url(../img/xolotlhc100px.png) no-repeat 30px 0px;
 }
 
 /* ---------------------
@@ -172,8 +173,8 @@ Postamble
 }
 .toprightbutton { 
     position: absolute;
-    right: 20px;
-    top: 20px;
+    right: 10px;
+    top: 10px;
 }
 .toprightbutton img { 
     width: 100px;
