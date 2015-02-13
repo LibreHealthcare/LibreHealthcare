@@ -19,3 +19,7 @@ http://www.librehealthcare.flqt.fr/contribute.fr.html
 *** TODO [#B] Raphaël
 ** TODO [#B] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel. :Nicolas:
   Tâche ajoutée le [2014-12-19 ven. 22:25]
+** TODO [#A] Dessiner des petites icones pour « contribuer », « nous écrire », « flux RSS »
+  Tâche ajoutée le [2015-02-13 ven. 10:16]
+** TODO [#A] Modifier le fichier COPYING.txt pour qu'il présente les dernières versions anglaises de la CC-BY-SA et de la GNU FDL
+  Tâche ajoutée le [2015-02-13 ven. 10:18]

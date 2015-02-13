@@ -134,7 +134,7 @@ Content
 #table-of-contents {
     position: absolute;
     right: 10px;
-    top: 110px;
+    top: 120px;
     width: 150px;
     padding: 10px 10px 10px 10px;
     background: #FFFFFF;
@@ -177,7 +177,7 @@ Postamble
     top: 10px;
 }
 .toprightbutton img { 
-    width: 100px;
+    height: 100px;
     display: block;
     margin: 0px 0px 30px 0px;
 }
