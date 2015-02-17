@@ -2,3 +2,5 @@
 #+Title: Références
 #+LANGUAGE: fr
 
+Critique du système de chiffrement de données médicale Apicrypt : 
+- http://renaud.schleck.free.fr/apicrypt.php
