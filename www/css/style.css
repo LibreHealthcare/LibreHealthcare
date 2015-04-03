@@ -31,18 +31,20 @@ ul {
     padding: 0;
 }
 .toplist {
-    margin: 10px 0 40px 81px;
+    margin: 10px 0 60px 81px;
 }
 .toplist li {
+    padding-top: 6px;
     font-size: 1.1em;
     font-weight: bold;
     letter-spacing: 5px;
     list-style: outside none none;
 }
 .bottomlist {
-    margin: 40px 0 0 81px;
+    margin: 60px 0 0 81px;
 }
 .bottomlist li {
+    padding-top: 6px;
     font-size: 1.1em;
     font-weight: bold;
     letter-spacing: 5px;
