@@ -1,8 +1,7 @@
 LibreHealthcare
-====================
+===============
 
-Description
-----
+## Description
 
 Ce dépôt contient tous les fichiers de la communauté LibreHealthcare.
 
@@ -16,7 +15,7 @@ Ce dépôt contient tous les fichiers de la communauté LibreHealthcare.
 - Une suite de tutoriels pour apprendre à taper un rapport étudiant
   (thèse, mémoire…) « comme un vrai hacker ».
 
-# Comme un vrai hacker
+## Comme un vrai hacker
 
 Ceci est un ensemble de tutoriel présentant la rédaction d'un rapport
 d'étudiant, d'un mémoire ou d'une thèse grâce aux logiciels libres
@@ -28,7 +27,7 @@ dont principalement :
 
 - Git.
 
-#Comment participer à la structure du site
+## Comment participer à la structure du site
 
 1. Forkez le
 
@@ -42,3 +41,19 @@ dont principalement :
 
 Pour plus de détails sur la manière dont vous pouvez contribuer à ce site,
  un tutoriel plus détaillé se trouve [ici](http://wiki.librehealthcare.flqt.fr/contribute.fr.html "tutoriel LHC").
+
+
+## License
+
+Copyright (c)  2014-2015 LibreHealthcare.
+
+Permission is granted to copy, distribute and/or modify
+LibreHealthcare's text under the terms of the Creative Commons
+Attribution-ShareAlike 3.0 Unported License and the GNU Free
+Documentation License.
+
+- A copy of the Creative Commons Attribution-ShareAlike 3.0 Unported
+  License is included. See COPYING.txt.
+
+- A copy of the GNU Free Documentation License is included. See
+  COPYING.txt.
