@@ -11,10 +11,13 @@ C'est pourquoi la communauté LibreHealthcare :
   professionnels de santé,
 - édicte des *recommandations de bon usage de l'informatique* dans les
   métiers de santé,
-- soutient le *développement de progiciels libres* pour le secteur de
-  santé,
-- soutient la *conversion des prestataires informatiques aux modèles
-  économiques de services* basés sur les logiciels libres.
+- milite pour une meilleure accessibilité à tous des connaissances
+  scientifiques relatives aux disciplines de santé,
+- soutient le *développement de progiciels libres et de matériels
+  libres* pour le secteur de santé,
+- soutient la *conversion* des prestataires informatiques des
+  établissements de santé *aux modèles économiques* de services basés
+  sur les logiciels libres et de vente de matériels libres.
 
 * Le secret professionnel à l'ère numérique
 
