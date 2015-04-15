@@ -18,7 +18,7 @@ d'Emacs]], nous utiliserons dans ces tutoriels la version appelée /[[https://fr
 Emacs]]/. Pas de panique !  C'est justement celle qu'on trouve par
 défaut dans la totalité (ou quasi) des [[https://fr.wikipedia.org/wiki/Distribution_GNU/Linux][distributions GNU/Linux]] et on
 peut facilement retrouver des [[https://fr.wikipedia.org/wiki/Programme_informatique#Ex.C3.A9cution][exécutables]] pour les vils systèmes
-d'exploitations privateurs. [fn:2]
+d'exploitations privateurs.
 - pour [[https://fr.wikipedia.org/wiki/Gnu/Linux][GNU/Linux]], voyez avec votre [[https://fr.wikipedia.org/wiki/Gestionnaire_de_paquet][gestionnaire de paquet]],
 - pour [[http://wikemacs.org/wiki/Installing_Emacs_on_BSD][BSD]]
 - pour [[http://vgoulet.act.ulaval.ca/emacs/windows/][Windows]] ,
@@ -27,7 +27,7 @@ d'exploitations privateurs. [fn:2]
 Enfin, pour des raisons de commodité, nous désignerons dans ce texte
 GNU Emacs par Emacs.
 
-Une fois Emacs installé, nous pouvons démarrez son apprentissage.
+Une fois Emacs installé, nous pouvons démarrer son apprentissage.
 
 * L'apprentissage d'Emacs
 
@@ -50,31 +50,31 @@ Voici maintenant quelques listes (non-exhaustives) des commandes que
 j'utilise. Mais avant toute chose, je précise que la documentation
 d'Emacs utilise une notation particulière pour désigner les touches du
 clavier, et je l'utilise également dans ce tutoriel. La voici :
-- la touche Entrée se désigne par « RET »
-- la touche Delete ou backspace se désigne par « DEL »
-- la touche ctrl se désigne par « C »
-- la touche Alt se désigne pas « M » (et se dit « Méta »)
+- la touche ~[Entrée]~ se désigne par ~RET~,
+- la touche ~[Delete]~ ou ~[backspace]~ se désigne par ~DEL~,
+- la touche ~[Ctrl]~ se désigne par ~C~,
+- la touche ~[Alt]~ se désigne par ~[M]~ (et se dit « Méta »),
 - la notation d'une combinaison de touche se lit de gauche à droite,
   et s'écrit avec un tiret pour signaler qu'il faut appuyer
   /simultanément/ sur les touches ; et sans rien pour signaler qu'il
-  faut appuyer /successivement/ sur les touches. Par exemple, « C-x
-  C-f » signifie qu'il faut :
-  1. appuyer sur la touche Ctrl et la maintenir enfoncée pendant
-     qu'un autre doigt appuie sur la touche X
-  2. tout relâcher
-  3. appuyer sur la touche Ctrl et la maintenir enfoncée pendant
-     qu'un autre doigt appuie sur la touche F et c'est bon.
+  faut appuyer /successivement/ sur les touches. Par exemple, ~[C-x
+  C-f]~ » signifie qu'il faut :
+  1. Appuyer sur la touche ~[Ctrl]~ et la maintenir enfoncée pendant
+     qu'un autre doigt appuie sur la touche ~X~.
+  2. Tout relâcher.
+  3. Appuyer sur la touche ~[Ctrl]~ et la maintenir enfoncée pendant
+     qu'un autre doigt appuie sur la touche ~F~ et c'est bon.
 
 ** Les commandes pour utiliser les fichiers : 
 
-- C-x C-f (find) puis chemin/nom_du_ficher puis RET pour ouvrir un fichier
-  existant ou créer un fichier
-- C-x C-s (save) pour enregistrer le fichier courant.
-- C-x s pour enregistrer les uns après les autres (avec y (yes) pour
-  confirmer)
-- C-x b : pour retourner au tampon précédent
-- C-x C-b : pour afficher la liste des tampons ouverts.
-- C-x C-q : ce raccourcis est assez sympa pour éviter les fausses
+- ~C-x C-f~ (find) puis chemin/nom_du_ficher puis ~RET~ pour ouvrir un
+  fichier existant ou créer un fichier,
+- ~C-x C-s~ (save) : pour enregistrer le fichier courant,
+- ~C-x s~ : pour enregistrer les uns après les autres (avec y (yes) pour
+  confirmer),
+- ~C-x b~ : pour retourner au tampon précédent,
+- ~C-x C-b~ : pour afficher la liste des tampons ouverts,
+- ~C-x C-q~ : ce raccourcis est assez sympa pour éviter les fausses
   manips quand on ne veut que lire le fichier : il permet de passer la
   tampon en « lecture seule » ; Une fois en lecture seule, on peut
   rendre la modification à nouveau possible en retapant le même
@@ -88,43 +88,47 @@ c'est-là-que-ça-écrit ; C'est ça le curseur ! ^^
 *** Les bases :
 
 Pour déplacer le curseur :
-- C-m (ou RET tout simplement) pour effectuer un « retour chariot » (
-  créer une nouvelle ligne en fait),
-- C-b (backward) pour déplacer le curseur d'un caractère vers
+- ~C-m~ (ou ~RET~ qui est équivalent) : pour effectuer un « retour
+  chariot » ( créer une nouvelle ligne en fait),
+- ~C-b~ (backward) : pour déplacer le curseur d'un caractère vers
   l'arrière,
-- C-f (forward) pour déplacer le curseur d'un caractère vers l'avant,
-- M-b pour déplacer le curseur d'un mot vers l'arrière,
-- M-f pour déplacer le curseur d'un mot vers l'avant,
-- C-p (previous) pour déplacer le curseur à la ligne du dessus,
-- C-n (next) pour déplacer le curseur à la ligne du dessous,
-- C-a pour déplacer le curseur au début de la ligne courante,
-- C-e (end ?) pour déplacer le curseur à la fin de la ligne courante,
-- M-a pour déplacer le curseur au début du paragraphe courant,
-- M-e pour déplacer le curseur à la fin du paragraphe courant.
+- ~C-f~ (forward) : pour déplacer le curseur d'un caractère vers
+  l'avant,
+- ~M-b~ : pour déplacer le curseur d'un mot vers l'arrière,
+- ~M-f~ : pour déplacer le curseur d'un mot vers l'avant,
+- ~C-p~ (previous) : pour déplacer le curseur à la ligne du dessus,
+- ~C-n~ (next) : pour déplacer le curseur à la ligne du dessous,
+- ~C-a~ : pour déplacer le curseur au début de la ligne courante,
+- ~C-e~ (end ?) : pour déplacer le curseur à la fin de la ligne
+  courante,
+- ~M-a~ : pour déplacer le curseur au début du paragraphe courant,
+- ~M-e~ : pour déplacer le curseur à la fin du paragraphe courant.
 
 Pour agir sur le texte :
-- DEL pour effacer caractère après caractère en arrière du curseur,
-- M-DEL pour effacer mot à mot en arrière du curseur,
-- C-d (delete ?) pour effacer caractère après caractère en avant du
+- ~DEL~ : pour effacer caractère après caractère en arrière du
   curseur,
-- M-d pour effacer mot à mot en avant du curseur.
+- ~M-DEL~ : pour effacer mot à mot en arrière du curseur,
+- ~C-d~ (delete ?) : pour effacer caractère après caractère en avant
+  du curseur,
+- ~M-d~ : pour effacer mot à mot en avant du curseur.
 
 *** Un peu plus fort :
 
 Concernant le déplacement du curseur :
-- M-< pour déplacer le curseur au tout début du tampon courant
-- M-< pour déplacer le curseur à la toute fin du tampon courant
-- C-u C-SPC pour remonter le « mark-ring », c'est à dire replacer
+- ~M-<~ pour déplacer le curseur au tout début du tampon courant,
+- ~M-<~ pour déplacer le curseur à la toute fin du tampon courant,
+- ~C-u C-SPC~ pour remonter le « mark-ring », c'est à dire replacer
   directement le curseur à l'endroit où il était avant de le déplacer
   avec des raccourcis tels que les deux précédent. C'est génial parce
   que ça peut éviter de faire des C-b, C-f compulsivement après avoir
   déplacer le curseur de 36 paragraphes. 
 
 Concernant l'action sur le texte :
-- C-k (kill) pour « couper » la ligne courante à partir du curseur.
-- C-y (yank) pour « coller » ce qu'on vient de couper.
-- M-k pour « couper » le paragraphe courant à partir du curseur.
-- M-q pour redécouper votre texte en ligne d'environ 80 caractères
+- ~C-k~ (kill) : pour « couper » la ligne courante à partir du
+  curseur,
+- ~C-y~ (yank) : pour « coller » ce qu'on vient de couper,
+- ~M-k~ : pour « couper » le paragraphe courant à partir du curseur,
+- ~M-q~ : pour redécouper votre texte en ligne d'environ 80 caractères
   afin qu'il soit plus lisible.
 
 * Le premier fichier de notre rapport
@@ -134,37 +138,38 @@ notre rapport ! ^^
 
 Nous allons d'abord créer une arborescence pour placer les divers
 fichiers. Avec votre gestionnaire de fichier favoris, ou un shell, ou
-Emacs (avec M-x make-directory) :
-1. Créez un répertoire intitulé selon le sujet de votre
-   rapport. (pour ce tuto, ce sera « masuperthese »)
+Emacs (avec ~M-x make-directory~) :
+1. Créez un répertoire intitulé selon le sujet de votre rapport (pour
+   ce tuto, ce sera « masuperthese »).
 2. Dans ce répertoire, créer deux (ou pas du tout) sous-répertoires
    selon que vous soutiendrez (ou pas) publiquement votre travail (bah
-   oui *tant qu'à faire*, *je vais vous apprendre à faire votre
-   diaporama à la mode hacker dans le même temps !* ^^) Le premier
-   sera intitulé « redaction », l'autre sera intitulé « soutenance ».
+   oui *tant qu'à faire*, *nous allons apprendre à faire un diaporama
+   à la mode hacker dans le même temps !* ^^) Le premier sera intitulé
+   « redaction », l'autre sera intitulé « soutenance ».
 3. Dans chacun des sous-répertoires, créer un sous-sous-répertoire
    intitulé « img », « images » ou « illustrations ». Vous l'aurez
    compris, c'est là que vous placerez les images qui seront appelées
    pour votre rapport.
 
 Retournons à Emacs, puis
-1. C-x C-f, une ligne « Find file: » s'affiche dans le mini-tampon
+1. ~C-x C-f~, une ligne ~Find file:~ » s'affiche dans le mini-tampon
    tout en bas.
-2. taper ~/masuperthese/soutenance/masuperthese.org (le .org à la fin
-   à son importance que vous saisirez dans la prochaine partie).
+2. taper ~~/masuperthese/soutenance/masuperthese.org~ (le ~.org~ à la
+   fin à son importance que vous saisirez dans la prochaine partie).
 
-Et vous avez un tampon intitulé masuperthese.org tout blanc qui
-s'affiche. Faites un premier C-x C-s pour l'enregistrer, puis
+Et vous avez un tampon intitulé ~masuperthese.org~ tout blanc qui
+s'affiche. Faites un premier ~C-x C-s~ pour l'enregistrer, puis
 commencez enfin à taper ce qu'il vous vient à l'esprit : c'est le
 début de votre rapport. Bravo ! ^^
 
-Taper régulièrement C-x C-s (ou C-x s) durant votre rédaction.
+Taper régulièrement ~C-x C-s~ (ou ~C-x s~) durant votre rédaction.
 
 Avant de terminer votre session de travail, n'oubliez pas un dernier
-C-x C-s pour enregistrer. Puis taper C-x C-c (close) pour fermer
-Emacs. Pas de panique ! ^^ Si vous taper C-x C-c avant d'enregistrer,
-Emacs vous demandera une confirmation. Tapez y (yes) si vous voulez
-enregistrer avant de fermer le programme.
+~C-x C-s~ pour enregistrer. Puis taper ~C-x C-c~ (close) pour fermer
+Emacs. Pas de panique ! ^^ Si vous taper ~C-x C-c~ avant d'enregistrer
+!  Emacs vous demandera une confirmation. Tapez ~y~ (yes) si vous
+voulez enregistrer avant de fermer le programme, ce qui est
+certainement le cas.
 
 À bientôt pour la présentation d'Org-mode ! ^^
 

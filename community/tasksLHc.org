@@ -5,12 +5,13 @@ http://www.librehealthcare.flqt.fr/contribute.fr.html
   Tâche ajoutée le [2015-01-04 dim. 23:03]
 ** TODO [#B] Contacter (par mail) Mme. Ramade, professeur à Paris   :Nicolas:
   Tâche ajoutée le [2015-01-22 jeu. 16:33]
-** TODO [#A] Dessiner des petites icones pour « contribuer », « nous écrire », « flux RSS »
+** TODO [#B] Dessiner des petites icones pour « contribuer », « nous écrire », « flux RSS »
   Tâche ajoutée le [2015-02-13 ven. 10:16]
-** DONE [#A] Donner un accès SSH à Nico sur le serveur de Jérôme. :Jérôme:Nicolas:
-  Tâche ajoutée le [2014-12-17 mer. 22:49]
-** TODO [#A] Modifier le fichier COPYING.txt pour qu'il présente les dernières versions anglaises de la CC-BY-SA et de la GNU FDL
-  Tâche ajoutée le [2015-02-13 ven. 10:18]
+** TODO [#B] Lancer une campagne pour le financement des LL par les Ordres
+  Tâche ajoutée le [2015-04-14 mar. 09:24]
+** TODO [#B] Remplacer le profil Twitter par GNU Social https://gnu.io/social/try/
+  
+  Tâche ajoutée le [2015-04-08 mer. 19:17]
 ** TODO [#B] Rédiger un article pour la revue Pratique.
   Tâche ajoutée le [2014-12-19 ven. 23:26]
 ** TODO [#B] Rédiger un article sur les directives des Ordres sur les sites web des pros de santé
@@ -24,10 +25,7 @@ http://www.librehealthcare.flqt.fr/contribute.fr.html
 *** TODO [#B] Jérôme
 *** TODO [#B] Laura
 *** TODO [#B] Nicolas
-*** TODO [#B] Raphaël
 ** TODO [#B] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel. :Nicolas:
   Tâche ajoutée le [2014-12-19 ven. 22:25]
-** TODO [#B] Remplacer le profil Twitter par GNU Social https://gnu.io/social/try/
-  
-  Tâche ajoutée le [2015-04-08 mer. 19:17]
-
+** TODO [#B] Tester FreeMedForms sous Parabola			    :Nicolas:
+  Tâche ajoutée le [2015-04-10 ven. 14:44]
