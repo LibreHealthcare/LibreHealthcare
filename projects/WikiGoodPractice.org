@@ -1,0 +1,72 @@
+#+TITLE: Cahier des charges du WikiGoodPractice
+
+* Présentation du projet
+
+WikiGoodPractice est un projet d'outil d'élaboration et de publication
+des bonnes pratiques dans les métiers de santé.
+
+Les bonnes pratiques sont
+
+Un wiki est . L'exemple le plus fameux de site web de type wiki est
+l'encyclopédie en ligne Wikipedia.
+
+** Définition du besoin
+
+Les professionnels de santé ne disposent actuellement pas d'un outil
+/informatisé/, /central/, 
+
+pour élaborer et les bonnes pratiques.
+
+** Objectif
+
+Nous voulons un outil qui soit universellement reconnu par les
+professionnels de santé.
+
+** Périmètre
+
+- Professionnels de santé
+- Bonnes pratiques.
+
+* Charges du projet
+** Description fonctionnelle
+
+Concernant l'élaboration :
+, authentification, intégrité.
+
+Concernant la consultation des éléments publiés
+
+** Contraintes
+*** Contraintes technique
+
+WikiGoodPractice doit être uniquement constitué de logiciels libres.
+
+*** Contraintes économiques
+
+*** Contraintes juridiques
+
+Les informations élaborées et publiées dans le WikiGoodPractice doit
+être libres.
+
+*** Contraintes administratives
+
+
+
+
+L'association LibreHealthcare est 
+
+** Préférences
+
+Concernant, le système de gestion de version, nous proposons git
+
+Concernant, nous proposons PGP.
+
+Nous proposons un régime double licence sous la GNU FDL et la CC-BY-SA.
+** Budget
+
+** Délais
+
+Le plus tôt possible.
+* Conclusion
+
+WikiGoodPractice à le potentiel pour devenir un exemple de ce que peux
+apporter le logiciel libre à la société, dans le domaine de la santé.
