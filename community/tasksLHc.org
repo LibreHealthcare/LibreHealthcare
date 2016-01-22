@@ -1,31 +1,29 @@
 * Tâches
-** TODO [#B] Ajouter des captures d'écran au tuto contribute…
+** TODO [#C] Ajouter des captures d'écran au tuto contribute…
 http://www.librehealthcare.flqt.fr/contribute.fr.html
 
   Tâche ajoutée le [2015-01-04 dim. 23:03]
-** TODO [#B] Contacter (par mail) Mme. Ramade, professeur à Paris   :Nicolas:
+** TODO [#C] Contacter (par mail) Mme. Ramade, professeur à Paris   :Nicolas:
   Tâche ajoutée le [2015-01-22 jeu. 16:33]
-** TODO [#B] Dessiner des petites icones pour « contribuer », « nous écrire », « flux RSS »
-  Tâche ajoutée le [2015-02-13 ven. 10:16]
-** TODO [#B] Lancer une campagne pour le financement des LL par les Ordres
+** TODO [#C] Lancer une campagne pour le financement des LL par les Ordres
   Tâche ajoutée le [2015-04-14 mar. 09:24]
-** TODO [#B] Remplacer le profil Twitter par GNU Social https://gnu.io/social/try/
+** TODO [#C] Remplacer le profil Twitter par GNU Social https://gnu.io/social/try/
   
   Tâche ajoutée le [2015-04-08 mer. 19:17]
-** TODO [#B] Rédiger un article pour la revue Pratique.
+** TODO [#C] Rédiger un article pour la revue Pratique
   Tâche ajoutée le [2014-12-19 ven. 23:26]
-** TODO [#B] Rédiger un article sur les directives des Ordres sur les sites web des pros de santé
+** TODO [#C] Rédiger un article sur les directives des Ordres sur les sites web des pros de santé
 
-** TODO [#B] Rédiger un comparatif des offres web pour professionnels de santé
-** TODO [#B] Rédiger une charte (un manifeste) de la communauté LibreHealthcare
-** TODO [#B] Rédiger une présentation de l'équipe. [0/5]
+** TODO [#C] Rédiger un comparatif des offres web pour professionnels de santé
+** TODO [#C] Rédiger une charte (un manifeste) de la communauté LibreHealthcare
+** TODO [#C] Rédiger une présentation de l'équipe. [0/5]
   Tâche ajoutée le [2015-01-13 mar. 09:55]
 
-*** TODO [#B] Gabriel
-*** TODO [#B] Jérôme
-*** TODO [#B] Laura
-*** TODO [#B] Nicolas
-** TODO [#B] Tester FreeMedForms sous Manjaro avec le paquet d'Alex Piel. :Nicolas:
-  Tâche ajoutée le [2014-12-19 ven. 22:25]
-** TODO [#B] Tester FreeMedForms sous Parabola			    :Nicolas:
+*** TODO [#C] Gabriel
+*** TODO [#C] Jérôme
+*** TODO [#C] Laura
+*** TODO [#C] Nicolas
+** TODO [#C] Tester FreeMedForms sous Parabola			    :Nicolas:
   Tâche ajoutée le [2015-04-10 ven. 14:44]
+** TODO [#C] Trouver (ou dessiner) des petites icones pour « contribuer », « nous écrire », « flux RSS »
+  Tâche ajoutée le [2015-02-13 ven. 10:16]
