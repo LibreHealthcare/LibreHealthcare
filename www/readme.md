@@ -1,4 +1,4 @@
-Nouveau [site de LHC](https://kapu06.github.io) en cours de rédaction, to do list à venir (dans les commentaires du index.html pour le moment).
+Nouveau site de LHC en cours de rédaction, to do list à venir (dans les commentaires du index.html pour le moment).
 
 # To do list
 
