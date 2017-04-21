@@ -1,50 +1,134 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html lang="fr" xml:lang="fr" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE HTML>
+<html>
   <head>
-    <title>LibreHealthcare</title>
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <meta content="Org-mode" name="generator">
-    <meta content="LibreHealthcare" name="author">
-    <link href="./css/style.css" type="text/css" rel="stylesheet">
-    <link href="img/prompt16librehealthcare.png" rel="icon">
+      <meta charset="utf-8">
+      <meta	name="viewport"	content="width=device-width,	initial-scale=1.0">
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link	href="css/font-awesome.min.css"	rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <link href="css/bootstrap-toggle.min.css" rel="stylesheet">
+
+
+
+      <title> Libre Health Care </title>
   </head>
+  <body class="en">
+    <div class="container">
+<!--
+==========
+I. Header
+=========
+-->
+      <header>
+        <div class="col-xs-12 col-lg-offset-4 col-lg-4" align="center">
+        <img src="img/dessin-1.png" alt="Logo Libre Health Care" title="Logo du collectif LibreHealthCare" class="img-responsive">
+        </div>
+      </header>
+      <section class="row">
+        <div class="col-xs-12" align="center">
+          <p lang="fr">
+            <br>
+            <strong>LibreHealthCare</strong> est un collectif de passionés du <a href="https://www.gnu.org/philosophy/free-sw.fr.html"> logiciel libre</a>.
+            <br>
+            Nous avons particulièrement à coeur d'expliquer et de promouvoir l'intérêt du logiciel libre dans le domaine de la santé.
+          </p>
+          <p lang="en">
+            <br>
+            <strong>LibreHealthCare</strong> is a collective of <a href="https://www.gnu.org/philosophy/free-sw.en.html"> libre software</a> lovers.
+            <br>
+            We try to explain what are libre softwares and their crucial importance in the field of health.
+          </p>
 
-  <body>
 
-    <div class="toplist">
-      <ul>
-	<li>Ethics</li>
-	<li>Deontology</li>
-	<li>Computing</li>
-	<li>Freedom</li>
-      </ul>
+          <br>
+          <br>
+      </div>
+     </section>
+<!--
+==========
+II. Navbar
+==========
+-->
+
+     <nav class="row">
+       <div class="col-xs-12 col-lg-12" align="center">
+        <a id="nav" class="btn btn-default btn-lg" href="https://framasphere.org/people/ee9fd9608a08013233c42a0000053625"><span class="fa fa-users fa-lg"> </span> Diaspora</a>
+        <a id="nav" class="btn btn-default btn-lg" href="https://twitter.com/LibreHealthCare/"><span class="fa fa-twitter fa-lg"> </span> Twitter</a>
+        <a id="nav" class="btn btn-default btn-lg" href="https://github.com/LibreHealthcare/"><span class="fa fa-code-fork fa-lg"> </span> GitHub</a>
+        <a id="nav" lang="en" class="btn btn-default btn-lg" href="https://librehealthcare.org/wiki/en"><span class="fa fa-book fa-lg"> </span> Wiki</a>
+        <a id="nav" lang="fr" class="btn btn-default btn-lg" href="https://librehealthcare.org/wiki/fr"><span class="fa fa-book fa-lg"> </span> Wiki</a>
+        <a id="nav" class="btn btn-default btn-lg" href="https://librehealthcare.org/mailman/listinfo/discussion"><span class="fa fa-envelope-o fa-lg"> </span> Mailing list</a>
+      </div>
+    </nav>
+<!--
+Bouton changement de langue
+Toutes les explications peuvent se trouver ici: https://stackoverflow.com/questions/43490283/changing-language-with-toggle-button-bootstrap
+Le script est en bas de page
+Merci à ADyson.
+-->
+<nav class="row">
+  <div align="center">
+        <input id="toggle-event" data-width="75" data-height="49" type="checkbox" checked data-toggle="toggle" data-onstyle="info" data-offstyle="info" data-on="<i class='fa fa-language'></i> En" data-off="<i class='fa fa-language'></i> Fr" data-true="en" data-false="fr">
+  </div>
+</nav>
+
+
+
+<!--
+==========
+Vidéo FSF
+==========
+ -->
+  <div class="row" align="center">
+
+     <br>
+     <br>
+   <video controls poster="https://static.fsf.org/nosvn/FSF30-video/fsf30-poster.png" preload="metadata" type="video/webm" class="col-xs-12 col-lg-offset-3 col-lg-6">
+        <source src="https://static.fsf.org/nosvn/FSF30-video/FSF_30_720p.webm" type="video/webm">
+
+</video>
+
+ </div>
+
+<!--
+==========
+Zone on aime
+==========
+-->
+
+<section class="row" align="center">
+     <br>
+     <br>
+     <p align="center" id="aime"> <span class="glyphicon glyphicon-heart"></span> On aime <span class="glyphicon glyphicon-heart"></span> </p>
+     <div class="col-xs-12 col-lg-12" align="center">
+      <a  href="https://fsf.org/"><img src="img/fsf.png" class="img-thumbnail img-responsive" alt="Free Software Foundation"></a>
+      <a  align="center" href="https://framasoft.org/"> <img src="img/frama.jpg" class="img-thumbnail img-responsive" alt="Framasoft"></a>
+      <a  align="center" href="https://www.laquadrature.net/fr"> <img src="img/logo_devs_lqdn.png" class="img-thumbnail img-responsive" alt="La Quadrature du Net"></a>
+  </div>
+</section>
+
+<!--
+==========
+Footer
+==========
+-->
+<footer>
+  <br>
+  <div align="center">
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/"> <img src="img/cc-zero.png" alt="Public Domain Licence" align="center"></a>
+   </div>
+ </footer>
+
     </div>
-
-    <div class="nav">
-      <ul>
-	<li><a href="https://framasphere.org/people/ee9fd9608a08013233c42a0000053625">Diaspora</a></li>
-	<li><a href="https://twitter.com/LibreHealthCare/">Twitter</a></li>
-	<li><a href="https://github.com/LibreHealthcare/">GitHub</a></li>
-	<li><a href="https://librehealthcare.org/wiki/en">Wiki</a></li>
-	<li><a href="https://librehealthcare.org/mailman/listinfo/discussion">Mailing list</a></li>
-        <li><a href="index.fr.html">[Fr]ançais</a></li>
-      </ul>
-    </div>
-
-    <h1>LibreHealthcare</h1>
-
-    <h2>Libre software and healthcare</h2>
-
-    <div class="bottomlist">
-      <ul>
-	<li>Independence</li>
-	<li>Professional secrecy</li>
-	<li>IT security</li>
-	<li>Self-hosting</li>
-	<li>Encryption</li>
-      </ul>
-    </div>
-
-  </body>
-  </html>
+</body>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap-toggle.min.js"></script>
+<script>
+        $(function() {
+          $('#toggle-event').change(function() {
+             document.body.className = $(this).data($(this).prop("checked").toString());
+          });
+        });
+</script>
+</html>
