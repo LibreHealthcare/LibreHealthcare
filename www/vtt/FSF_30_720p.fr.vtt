@@ -1,0 +1,290 @@
+WEBVTT
+
+1
+00:00:03.417 --> 00:00:04.936
+Les logiciels sont partout autour de nous,
+
+2
+00:00:05.751 --> 00:00:07.900
+parfois même à l'intérieur de nous.
+
+3
+00:00:09.686 --> 00:00:10.678
+Mais que se passe-t-il
+
+4
+00:00:10.904 --> 00:00:11.922
+lorsque les outils que nous utilisons
+
+5
+00:00:12.100 --> 00:00:14.336
+obéissent à quelqu'un d'autre ?
+
+6
+00:00:14.661 --> 00:00:15.765
+Un outil que vous contrôlez
+
+7
+00:00:16.005 --> 00:00:17.454
+sert vos intérêts.
+
+8
+00:00:18.093 --> 00:00:20.754
+Mais si quelqu'un d'autre le contrôle,
+
+9
+00:00:21.029 --> 00:00:22.937
+il sert les intérêts d'autrui.
+
+10
+00:00:23.191 --> 00:00:24.800
+Quand vous pouvez examiner les outils
+
+11
+00:00:24.984 --> 00:00:26.206
+pour voir comment ils fonctionnent,
+
+12
+00:00:26.426 --> 00:00:27.743
+vous pouvez apprendre à les connaître,
+
+13
+00:00:28.153 --> 00:00:29.267
+et même les modifier
+
+14
+00:00:29.504 --> 00:00:30.473
+pour les faire fonctionner différemment
+
+15
+00:00:30.735 --> 00:00:31.759
+ou les améliorer.
+
+16
+00:00:32.786 --> 00:00:34.153
+Lorsque vous pouvez partager un outil
+
+17
+00:00:34.380 --> 00:00:35.420
+et ses modifications,
+
+18
+00:00:35.626 --> 00:00:36.592
+vous aidez les autres
+
+19
+00:00:36.764 --> 00:00:38.040
+qui, en retour, vous aident.
+
+20
+00:00:40.136 --> 00:00:40.716
+En fait,
+
+21
+00:00:40.941 --> 00:00:42.357
+c'est ainsi que l'informatique
+
+22
+00:00:42.573 --> 00:00:44.018
+s'est développée à ses débuts.
+
+23
+00:00:44.244 --> 00:00:45.778
+Chacun pouvait lire le code source
+
+24
+00:00:45.996 --> 00:00:47.789
+d'un programme, et les utilisateurs partageaient
+
+25
+00:00:47.974 --> 00:00:49.671
+leur travail librement, pour orienter son développement.
+
+26
+00:00:51.583 --> 00:00:54.340
+Chaque utilisateur était un auteur en puissance.
+
+27
+00:00:56.883 --> 00:00:58.057
+Mais lorsque les sociétés ont commencé
+
+28
+00:00:58.271 --> 00:00:59.259
+à verrouiller le code source,
+
+29
+00:01:00.126 --> 00:01:01.884
+il est devenu impossible de participer
+
+30
+00:01:03.560 --> 00:01:04.479
+ou même de vérifier
+
+31
+00:01:04.697 --> 00:01:06.389
+ce que faisait un programme.
+
+32
+00:01:09.252 --> 00:01:10.397
+En réponse à cela,
+
+33
+00:01:10.668 --> 00:01:12.695
+des hackeurs ont lancé le projet GNU,
+
+34
+00:01:12.885 --> 00:01:14.243
+afin de créer un système informatique
+
+35
+00:01:14.442 --> 00:01:15.551
+conçu pour respecter
+
+36
+00:01:15.847 --> 00:01:17.825
+l'autonomie des utilisateurs.
+
+37
+00:01:18.465 --> 00:01:20.470
+Ils adoptèrent la copyleft attitude,
+
+38
+00:01:20.669 --> 00:01:21.746
+formalisée dans la licence
+
+39
+00:01:21.945 --> 00:01:23.427
+générale GNU GPL,
+
+40
+00:01:23.624 --> 00:01:24.545
+une structure légale
+
+41
+00:01:24.841 --> 00:01:25.715
+permettant de préserver
+
+42
+00:01:25.940 --> 00:01:27.055
+les droits des utilisateurs.
+
+43
+00:01:27.786 --> 00:01:29.457
+En l'espace de seulement dix ans,
+
+44
+00:01:29.642 --> 00:01:30.508
+le mouvement du logiciel libre
+
+45
+00:01:30.705 --> 00:01:32.701
+a produit le système GNU/Linux.
+
+46
+00:01:32.891 --> 00:01:34.569
+Un système que personne ne peut posséder,
+
+47
+00:01:34.738 --> 00:01:36.661
+mais que tous peuvent utiliser.
+
+48
+00:01:38.474 --> 00:01:40.543
+Aujourd'hui, il permet aux avions de voler,
+
+49
+00:01:41.504 --> 00:01:44.704
+aux places boursières d'échanger,
+
+50
+00:01:44.926 --> 00:01:48.434
+et à Internet de fonctionner.
+
+51
+00:01:50.515 --> 00:01:52.239
+Nous croisons tous des logiciels libres,
+
+52
+00:01:52.437 --> 00:01:53.913
+sans même le savoir.
+
+53
+00:01:54.116 --> 00:01:55.279
+Mais la liberté du logiciel
+
+54
+00:01:55.513 --> 00:01:57.453
+a été conçue pour les utilisateurs.
+
+55
+00:01:57.691 --> 00:01:58.492
+Ce qui est en jeu,
+
+56
+00:01:58.706 --> 00:01:59.911
+c'est la forme même que prendra
+
+57
+00:02:00.123 --> 00:02:00.934
+la technologie que nous utilisons,
+
+58
+00:02:01.121 --> 00:02:02.472
+et le type de société
+
+59
+00:02:02.816 --> 00:02:03.832
+que nous allons construire
+
+60
+00:02:04.004 --> 00:02:05.296
+avec nos capacités numériques.
+
+61
+00:02:14.650 --> 00:02:17.020
+Il nous reste tant à faire !
+
+62
+00:02:27.935 --> 00:02:29.594
+Free Software Foundation
+
+63
+00:02:30.214 --> 00:02:31.521
+promotion des libertés
+
+64
+00:02:32.227 --> 00:02:33.857
+des utilisateurs depuis 30 ans
+
+65
+00:02:34.456 --> 00:02:35.529
+rejoignez-nous
+
+66
+00:02:36.125 --> 00:02:36.922
+contribuez
+
+67
+00:02:37.513 --> 00:02:38.472
+apprenez
+
+68
+00:02:39.095 --> 00:02:40.614
+sur fsf.org
+
+69
+00:02:41.343 --> 00:02:43.202
+Licence CC by-sa 4.0 2014
+
+70
+00:02:43.625 --> 00:02:44.799
+Vidéo par urchn.org
+
+71
+00:02:45.355 --> 00:02:46.732
+Traduction Française
+
+72
+00:02:47.389 --> 00:02:50.636
+Benjamin Sonntag, TeSla, Amaelle
+
